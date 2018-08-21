@@ -21,13 +21,13 @@ ul.plain {
 CT Lab Systems is a practical course on using design as a method of inquiry with a focus on process-oriented design, design research methods, and creative studio practice.
 </div>
 
+- [Welecome Letter](./welcome_letter.html)
 - [Syllabus](./syllabus.html)
 {plain}
 
 # Assignments
 
-- [Welecome Letter](./welcome_letter.html)
-- [Assignment 0: Introduction](#)
+- [Assignment 0: Studio Introduction](#)
 - [Assignment 1: Five in Five](#)
 - [Assignment 2: Ideas in Form](#)
 - [Assignment 3: Instruction Sets for Strangers](#)
@@ -41,7 +41,7 @@ CT Lab Systems is a practical course on using design as a method of inquiry with
 
 | Lesson Plan                              | Topics             |
 | ---------------------------------------- | ------------------ |
-| **Warm Up**                              | &nbsp;             |
+| **Design Verbs: Warm Up**                              | &nbsp;             |
 | [1a August 28](lesson_plans/aug_28.html) | TBD                |
 | **Sketches: Five in Five**               | &nbsp;             |
 | [1b August 30](lesson_plans/aug_30.html) | TBD                |
@@ -60,7 +60,7 @@ CT Lab Systems is a practical course on using design as a method of inquiry with
 | [7a October 9](lesson_plans/.html)       | TBD                |
 | [7b October 11](lesson_plans/.html)      | TBD                |
 | [8a October 16](lesson_plans/.html)      | TBD                |
-| **Tech: API**                            | &nbsp;             |
+| **Tech POCs: API**                            | &nbsp;             |
 | [8b October 18](lesson_plans/.html)      | TBD                |
 | [9a October 23](lesson_plans/.html)      | TBD                |
 | **Final**                                | &nbsp;             |
@@ -77,8 +77,8 @@ CT Lab Systems is a practical course on using design as a method of inquiry with
 | [14b November 29](lesson_plans/.html)    | TBD                |
 | [15a December 4](lesson_plans/.html)     | TBD                |
 | [15b December 6](lesson_plans/.html)     | TBD                |
-| [15a December 11](lesson_plans/.html)    | Finals{red}        |
-| [15b December 13](lesson_plans/.html)    | Finals{red}        |
+| [15a December 11](lesson_plans/.html)    | Final Presentations{red}        |
+| [15b December 13](lesson_plans/.html)    | Final Presentations{red}        |
 
 <style>
 
@@ -113,6 +113,10 @@ CT Lab Systems is a practical course on using design as a method of inquiry with
 
     .red {
         color: #F00;
+    }
+
+    a[href="#"] {
+        color: gray;
     }
 
 </style>
