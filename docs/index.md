@@ -4,10 +4,16 @@ layout: layouts/compform_toc.pug
 debug: false
 ---
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.16/p5.min.js"></script>
-<script src="./index_mess.js"></script>
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.16/p5.min.js"></script>
+<script src="./index_mess.js"></script> -->
 
-
+<style>
+ul.plain {
+ margin: 0;
+ padding: 0;
+ list-style: none;
+}
+</style>
 
 # CT Systems Lab Fall 2018
 
@@ -15,7 +21,19 @@ debug: false
 CT Lab Systems is a practical course on using design as a method of inquiry with a focus on process-oriented design, design research methods, and creative studio practice.
 </div>
 
-[Syllabus](./syllabus.html)
+- [Syllabus](./syllabus.html)
+{plain}
+
+# Assignments
+
+- [Welecome Letter](./welcome_letter.html)
+- [Assignment 0: Introduction](#)
+- [Assignment 1: Five in Five](#)
+- [Assignment 2: Ideas in Form](#)
+- [Assignment 3: Instruction Sets for Strangers](#)
+- [Assignment 4: API Challenge](#)
+- [Assignment 5: Systems Lab Final](#)
+{plain}
 
 
 # Calendar
