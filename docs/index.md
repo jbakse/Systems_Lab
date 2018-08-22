@@ -42,41 +42,41 @@ CT Lab Systems is a practical course on using design as a method of inquiry with
 | Lesson Plan                              | Topics             |
 | ---------------------------------------- | ------------------ |
 | **Design Verbs: Warm Up**                              | &nbsp;             |
-| [1a August 28](lesson_plans/aug_28.html) | TBD                |
+| [1a August 28](lesson_plans/aug_28.html) | TBA                |
 | **Sketches: Five in Five**               | &nbsp;             |
-| [1b August 30](lesson_plans/aug_30.html) | TBD                |
-| [2a September 4](lesson_plans/.html)     | TBD                |
-| [2b September 6](lesson_plans/.html)     | TBD                |
+| [1b August 30](lesson_plans/aug_30.html) | TBA                |
+| [2a September 4](lesson_plans/.html)     | TBA                |
+| [2b September 6](lesson_plans/.html)     | TBA                |
 | **Studies: Ideas in Form**               | &nbsp;             |
-| [3a September 11](lesson_plans/.html)    | TBD                |
-| [3b September 13](lesson_plans/.html)    | TBD                |
-| [4a September 18](lesson_plans/.html)    | TBD                |
-| [4b September 20](lesson_plans/.html)    | TBD                |
-| [5a September 25](lesson_plans/.html)    | TBD                |
+| [3a September 11](lesson_plans/.html)    | TBA                |
+| [3b September 13](lesson_plans/.html)    | TBA                |
+| [4a September 18](lesson_plans/.html)    | TBA                |
+| [4b September 20](lesson_plans/.html)    | TBA                |
+| [5a September 25](lesson_plans/.html)    | TBA                |
 | **Prototypes: Instruction Sets**         | &nbsp;             |
-| [5b September 27](lesson_plans/.html)    | TBD                |
-| [6a October 2](lesson_plans/.html)       | TBD                |
-| [6b October 4](lesson_plans/.html)       | TBD                |
-| [7a October 9](lesson_plans/.html)       | TBD                |
-| [7b October 11](lesson_plans/.html)      | TBD                |
-| [8a October 16](lesson_plans/.html)      | TBD                |
+| [5b September 27](lesson_plans/.html)    | TBA                |
+| [6a October 2](lesson_plans/.html)       | TBA                |
+| [6b October 4](lesson_plans/.html)       | TBA                |
+| [7a October 9](lesson_plans/.html)       | TBA                |
+| [7b October 11](lesson_plans/.html)      | TBA                |
+| [8a October 16](lesson_plans/.html)      | TBA                |
 | **Tech POCs: API**                            | &nbsp;             |
-| [8b October 18](lesson_plans/.html)      | TBD                |
-| [9a October 23](lesson_plans/.html)      | TBD                |
+| [8b October 18](lesson_plans/.html)      | TBA                |
+| [9a October 23](lesson_plans/.html)      | TBA                |
 | **Final**                                | &nbsp;             |
-| [9b October 25](lesson_plans/.html)      | TBD                |
-| [10a October 30](lesson_plans/.html)     | TBD                |
-| [10b November 1](lesson_plans/.html)     | TBD                |
-| [11a November 6](lesson_plans/.html)     | TBD                |
-| [11b November 8](lesson_plans/.html)     | TBD                |
-| [12a November 13](lesson_plans/.html)    | TBD                |
-| [12b November 15](lesson_plans/.html)    | TBD                |
-| [13a November 20](lesson_plans/.html)    | TBD                |
+| [9b October 25](lesson_plans/.html)      | TBA                |
+| [10a October 30](lesson_plans/.html)     | TBA                |
+| [10b November 1](lesson_plans/.html)     | TBA                |
+| [11a November 6](lesson_plans/.html)     | TBA                |
+| [11b November 8](lesson_plans/.html)     | TBA                |
+| [12a November 13](lesson_plans/.html)    | TBA                |
+| [12b November 15](lesson_plans/.html)    | TBA                |
+| [13a November 20](lesson_plans/.html)    | TBA                |
 | [13b November 22](lesson_plans/.html)    | Thanksgiving{gray} |
-| [14a November 27](lesson_plans/.html)    | TBD                |
-| [14b November 29](lesson_plans/.html)    | TBD                |
-| [15a December 4](lesson_plans/.html)     | TBD                |
-| [15b December 6](lesson_plans/.html)     | TBD                |
+| [14a November 27](lesson_plans/.html)    | TBA                |
+| [14b November 29](lesson_plans/.html)    | TBA                |
+| [15a December 4](lesson_plans/.html)     | TBA                |
+| [15b December 6](lesson_plans/.html)     | TBA                |
 | [15a December 11](lesson_plans/.html)    | Final Presentations{red}        |
 | [15b December 13](lesson_plans/.html)    | Final Presentations{red}        |
 
