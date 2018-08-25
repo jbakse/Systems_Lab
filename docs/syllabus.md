@@ -23,7 +23,8 @@ debug: false
 
 
 ## Course Description
-The primary goal of Systems Lab is to present design as a method of inquiry with a focus on process-oriented design, design research methods, and creative studio practice. 
+The primary goal of Systems Lab is to present design as a method of inquiry with a focus on process-oriented design, design research methods, and creative studio practice.
+ 
 The course is run in a studio format, with a primary focus on building and testing projects. Students will work individually and in groups to ideate, research, prototype, build, test, and document their projects. In addition to making, all students are also required to contribute to class discussion and critique to demonstrate their understanding and perspective on the subjects studied. 
 
 Primary themes include: using design to understand—rather than solve—problems; design constraints and rules; sketches, studies; prototypes; public engagement and user testing.
