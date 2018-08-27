@@ -1,12 +1,12 @@
 ---
-title: Systems Lab Syllabus
+title: Studio Introduction
 layout: layouts/compform_plain.pug
 debug: false
 ---
 
 # Assignment 0: Studio Introduction
 
-Parts of this class will be run like a design studio. Your fellow classmates will be one of your most important resources this semester, and you will be one of theirs. It is important that we get to know about one another.
+Most of this class will be run like a design studio. Your fellow classmates will be one of your most important resources this semester, and you will be one of theirs. It is important that we get to know about one another.
 
 For this assignment, be ready to introduce yourself through a short presentation at the beginning of the first day of class. 
 

@@ -29,7 +29,7 @@ CT Lab Systems is a practical course on using design as a method of inquiry with
 # Assignments
 
 - [Assignment 0: Studio Introduction](assignment_introduction.html)
-- [Assignment 1: Five in Five](#)
+- [Assignment 1: Five in Five](assignment_5in5.html)
 - [Assignment 2: Ideas in Form](#)
 - [Assignment 3: Instruction Sets for Strangers](#)
 - [Assignment 4: API Challenge](#)
@@ -45,9 +45,9 @@ CT Lab Systems is a practical course on using design as a method of inquiry with
 | **Design Verbs:<br/>Warm Up**                      | &nbsp;                                                                                                                              | &nbsp;                                           |
 | [1a August 28](lesson_plans/aug_28.html)           | Present: Studio Introductions<br/> Workshop: Design Verbs                                                                           | Studio Intro Presentaiton                        |
 | **Sketches:<br/>Five in Five**                     | &nbsp;                                                                                                                              | &nbsp;                                           |
-| [1b August 30](lesson_plans/aug_30.html)           | Kickoff: 5 in 5<br/> Workshop: Semantic Markup                                                                                      | [Hello, Github Pages!](lesson_plans/aug_28.html) |
-| [2a September 4](#)                                | Discuss: 5 in 5 WIP<br/> Workshop: Systems Mapping<br/> Lecture: Github Pages                                                       | 5 in 5 Wip                                       |
-| [2b September 6](#)                                | Kickoff: Ideas in Form<br/> Lecture: Sketches + Studies + Prototypes                                                                | 5 in 5 Page                                      |
+| [1b August 30](#lesson_plans/aug_30.html)          | Kickoff: 5 in 5<br/> Workshop: Semantic Markup                                                                                      | [Hello, Github Pages!](lesson_plans/aug_28.html) |
+| [2a September 4](#)                                | Discuss: 5 in 5 WIP<br/> Workshop: Systems Mapping<br/> Lecture: Github Pages                                                       | 5 in 5 Part A Sketches                           |
+| [2b September 6](#)                                | Kickoff: Ideas in Form<br/> Lecture: Sketches + Studies + Prototypes                                                                | 5 in 5 Part B Page                               |
 | **Studies:<br/>Ideas in Form**                     | &nbsp;                                                                                                                              | &nbsp;                                           |
 | [3a September 11](#)                               | Present: Ideas in Form Research<br/> Discuss: 5 in 5 Page                                                                           | Research Presentation                            |
 | [3b September 13](#)                               | Workshop: Documentation Photos<br/> Workshop: Documentation Copy                                                                    | &nbsp;                                           |
@@ -99,6 +99,12 @@ CT Lab Systems is a practical course on using design as a method of inquiry with
 
     td a[href="#"] {
         color: red;
+    }
+
+    .comp-form-toc .table a[href^="#"] {
+        color: black;
+        text-decoration: none;
+        border: none;
     }
 
     .table td,

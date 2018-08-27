@@ -76,6 +76,28 @@ The double-all-nighter habit can be difficult to break. It can be frustrating to
 
  In truth, all of this may even be true, at first. In time, through practice, your ability to use process-oriented design methods as tools will improve and they will begin to support your talents and allow you to create larger, more complicated projects with better results. You will find that your talent takes you further, your creativity deepens, and your ideas are better. When you have developed a personal, process-oriented approach to design, you will have a set of tools needed to reliably produce successful projects.
 
+
+### We are a Studio
+Most of this class will be run like a design studio. Your fellow classmates will be one of your most important resources this semester, and you will be one of theirs.
+
+Some work will be done in small groups, others will be done individually, but in all cases the studio will be an important resource for all projects for sharing and improving your work.
+
+I expect you all to fully engage, support each other, and be open to that support.
+
+### Critiques
+
+> Criticim may be the most important tool used in the studio to help the artist or designer advance.
+- [Art Critque is Broken. Fix it!](https://www.youtube.com/watch?v=ABLp9jAn5Gc){attrib}
+
+Broadly speaking critique might mean any commentary, assessment, or analysis. In art school, critique often means in-class discussion of student work. My view of critique, [largely formed at cranbrook](https://www.youtube.com/watch?v=ABLp9jAn5Gc), is pretty narrow: a detailed analysis of a work exposing internal tensions and discontinuities. This form of criticism rejects prescription—authorative suggestions of what a work should be—and seeks to identify problems with the "internal logic" of the work itself.
+
+**In this class we will engage in critque rarely.** However, we will engage in other forms of feedback often, including: discussion, commentary, coaching, suggesting, describing, riffing, and responding.
+
+
+
+
+
+
 ### Syllabus
 
 The full [syllabus can be found here](../syllabus.html). Here are the highlights:
@@ -128,4 +150,6 @@ Throughout this course you must maintain a website where you will post work-in-p
 | 1:20  | Engage   | Discussion | Questions                       |
 | 1:35  | Break    | -          | Break                           |
 | 1:40  | Activate | Workshop   | Design Verbs Workshop           |
+
+
 
