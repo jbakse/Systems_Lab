@@ -99,6 +99,23 @@ The full [syllabus can be found here](../syllabus.html). Here are the highlights
 [Design Verbs Workshop](aug_28_verbs_workshop.html)
 
 
+## Assignment: Hello, Github Pages!
+
+*Due Thursday, August 30, 11:59am*
+
+Throughout this course you must maintain a website where you will post work-in-progress documentation, project deliverables and casestudies, and written responses to the readings. This site will be used in both Systems Studio and Systems Lab. You are required to create handwritten, static HTML, CSS, and Javascript hosted using Github Pages for this site. In this assignment you'll get a basic "stub" online so we can start building on it in the next class.
+
+1. Create a personal Github account, if needed.
+2. Create a new repo for Systems Lab and Studio.
+3. Use [Github pages](https://help.github.com/categories/github-pages-basics/) to host a static website in your repo's `/docs` folder.
+    - [Github Pages Basics](https://help.github.com/categories/github-pages-basics/)
+    - [Configuring a publishing source for Github Pages](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/)
+4. Create an initial "stub" page including:
+    - Your name. *Use the name you will go by in class.*
+    - An image. *You can choose any image, but choose wisely.*
+5. Post a link to [the assignment matrix](https://docs.google.com/spreadsheets/d/1OVtofA8TV2qSv_RnN7W7BAem_cFSkqaAivjmNusbYWU/edit?usp=sharing).
+
+
 
 ## Lesson Plan {plain}
 
