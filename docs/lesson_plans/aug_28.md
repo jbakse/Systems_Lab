@@ -29,9 +29,9 @@ Individual presentations of the [Studio Introduction](../assignment_introduction
 
 Design is a methodical method of problem solving. It is a set of tools for identifying and understanding problems; proposing and testing solutions; and arriving—reliably—with an **expression** of **purpose**.
 
-Design is the principle skill of the designer, and can be applied to challenges in all fields.
+**Design is the principle skill of the design technologist**, and can be applied to challenges in all fields.
 
-### Technology
+### Technology + Computation
 
 A technology is anything we create that extends our human capability. 
 
@@ -41,7 +41,7 @@ A technology is anything we create that extends our human capability.
 
 This isn't just a convenience or shortcut. Computation is the most important technology yet developed. Computation allows us to travel to new territories of thoughts, explore higher complexities, and reach ideas that before would have been out of reach.
 
-Computation is a principle tool of the design technologist, and can be applied to challenges in all fields.
+**Computation is a principle media of the design technologist**, and can be applied to challenges in all fields.
 
 ::: .links
 - [Technological Singularity](https://en.wikipedia.org/wiki/Technological_singularity)
@@ -62,6 +62,12 @@ As the **designers** of technology we have a responsibility to consider the impa
 - What approaches do they encourage?
 - What solutions do they suggest?
 - What is the **impact we want** and what should we **make** to **achieve that impact**?
+
+In *Design Q&A*, Charles Eames suggests a defintion of design that I have generally adopted:
+
+> One could describe Design as a plan for arranging elements to accomplish a particular purpose.
+
+From this definition comes a method of design that focuses on understanding the features of a problem—the purpose—and evaluate a solution—the arrangement of elements—on how it impacts those features. It is critical howerver to also consider the broader impacts—externalities—of solutions. What are the costs and benefits created by a solution outside the features of the specific problem addressed?
 
 
 ## Creative Technology Systems Lab
@@ -150,6 +156,6 @@ Throughout this course you must maintain a website where you will post work-in-p
 | 1:20  | Engage   | Discussion | Questions                       |
 | 1:35  | Break    | -          | Break                           |
 | 1:40  | Activate | Workshop   | Design Verbs Workshop           |
-
+| 2:40  | Admin    | Announce   | Github Pages Assignemnt Intro   |
 
 
