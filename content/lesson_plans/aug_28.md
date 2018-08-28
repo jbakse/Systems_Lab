@@ -74,10 +74,14 @@ From this definition comes a method of design that focuses on understanding the 
 
 ![BFA DT Map](images/bfadt_map.png)
 
-### The Double-All-Nighter
-Many projects start with a good idea and end in a double-all-nighter with little work done in-between. Working this way can be fun and exciting when it leads to good results. Especially on smaller projects, where luck and raw, undisciplined talent is enough to scrape by, double-all-nighters work. But this is not a reliable way to work. This approach is stressful when things go wrong, frustrating when things fall apart, and tedious when you loose faith in the idea but must slog on anyway. Working this way makes it hard to forecast which project ideas will work and difficult to steer a project that is veering of course.
+### Systems
+While the focus of this class will be on *design process*, the theme will be *systems*. We will discuss how your projects exist within a larger context, how they can feed on and impact outside forces, and how to form a set of design values that guide these impacts.
+
+There will be less technical material in this class than in your previous Labs. We'll spend about 5 of our about 30 days on exploring web APIs.
 
 ### Developing a Personal Process
+Many projects start with a good idea and end in a double-all-nighter with little work done in-between. Working this way can be fun and exciting when it leads to good results. Especially on smaller projects, where luck and raw, undisciplined talent is enough to scrape by, double-all-nighters work. But this is not a reliable way to work. This approach is stressful when things go wrong, frustrating when things fall apart, and tedious when you loose faith in the idea but must slog on anyway. Working this way makes it hard to forecast which project ideas will work and difficult to steer a project that is veering of course.
+
 The double-all-nighter habit can be difficult to break. It can be frustrating to switch to a more methodical process-oriented design approach. Process-oriented design can feel slow, mechanical, formulaic. It may feel like you are setting your talent, creativity, and good-ideas aside. At times it may feel like you would do better if you went back to a good-idea-and–double-all-nighter approach.
 
  In truth, all of this may even be true, at first. In time, through practice, your ability to use process-oriented design methods as tools will improve and they will begin to support your talents and allow you to create larger, more complicated projects with better results. You will find that your talent takes you further, your creativity deepens, and your ideas are better. When you have developed a personal, process-oriented approach to design, you will have a set of tools needed to reliably produce successful projects.
