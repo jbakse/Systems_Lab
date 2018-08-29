@@ -23,11 +23,12 @@ Each project must be conceptualized, produced, and documented in a single day.
 Each project must follow the constraints you developed in class.
 
 ### Deliverables
-Document your projects each day. Your documentation will likely include images and a brief description, but other formats may fit your sketches better. You will need this documentation for class discussions and for next week’s assignment.
+Document your projects each day. Your documentation will likely include images (2-3 good photos) and a brief description (50-100 words), but other formats may fit your sketches better. Just generate and collect this material at this point; you will need it for class discussions and for next week’s assignment.
 
 ### Tips
 - Don’t wait for a perfect idea. Work on the first idea that comes to mind each day.
-- Don’t skip any days.
+- Don’t skip any days. Don't do multiple sketches in one day.
+- Adjust how you document your work based on its form. Is video or audio more appropriate than photography?
 
 ### Why are we Doing this Assignment?
 - Explore the relationship between constraints and creativity.
@@ -51,7 +52,7 @@ Effectively showcase the sketches you made for *5 in 5* and your personal motiva
 - Host your showcase using Github pages.
 
 ### Tips
-- Adjust how you document your work based on its form. Is video or audio more appropriate than photography?
+
 - Present the project, not the assignment.
 
 ### Deliverables
