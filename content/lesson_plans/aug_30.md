@@ -19,12 +19,13 @@ debug: false
 
 
 
-## Warm Up
+## Warm Up: What is Design?
+*5 minutes*
 
 Join your assigned group. Answer your group's assigned question in exactly 7 words.
 
 Aleksandra + Alyssa
-: What is your definition of 'Design'?
+: What is your definition of Design?
 
 Andy + Brooke
 : What are the boundaries of Design?
@@ -76,7 +77,7 @@ Lillian + Lizette + Forrest
 
 ## Constraints
 
-It is a mistake to think of constraints as limits on creativity. On the contrary well crafted constraints force designers to consider unusual, non-obvious solutions.
+It is a mistake to think of constraints as limits on creativity. On the contrary, well crafted constraints force designers to consider unusual, non-obvious solutions. More over, design *depends* on constraints:
 
 > Here is one of the few effective keys to the Design problem: the ability of the Designer to recognize as many of the constraints as possible; his willingness and enthusiasm for working within these constraints. Constraints of price, of size, of strength, of balance, of surface, of time, and so forth. Each problem has its own peculiar list.{large}
 
@@ -111,14 +112,6 @@ Introduction and discussion of [5-in-5 assignment](../assignment_5in5.html).
 ### Instructor
 Divide the class into pairs.
 
-### Qualities of Productive Constraints
-*Class, 5 minutes*
-
-As a class, brainstorm qualities of productive constraints.
-
-For example: *Encourages Variety*
-
-
 ### Attributes of Artwork
 *Class, 5 minutes*
 
@@ -132,6 +125,13 @@ For example: *Size*
 As a class, brainstorm sources of outside influence, urgency, or chance. These should be easily accessible, but unpredictable outside resources that can provide a dynamic input into your creative process.
 
 For example: *Newspaper Headlines*
+
+### Qualities of Productive Constraints
+*Class, 5 minutes*
+
+As a class, brainstorm qualities of productive constraints.
+
+For example: *Encourages Variety*
 
 ### Draft, Round 1
 *Individual, 5 minutes*
