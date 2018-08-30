@@ -9,7 +9,10 @@ debug: false
 ## Preamble
 
 ### [Carefully Arranged Sand and Lightning](https://docs.google.com/presentation/d/1JhBhWI8IHTgY59WDwSWg-M0PJtsKe5YRz21G61lI1E4/present?slide=id.g25052fa3b5_2_293)
+
 ### [A Universal Lever with Which to Move the World](https://docs.google.com/presentation/d/1JhBhWI8IHTgY59WDwSWg-M0PJtsKe5YRz21G61lI1E4/present?slide=id.g25052fa3b5_5_8)
+
+### [Important Games](important_games.html)
 
 
 ## What We Do In Here
@@ -57,9 +60,40 @@ I beleive the skill you will build in this program will prepare you well for the
 - Strong creative and design skills resist outsourcing pressures. It is difficult to "design at a distance".
 
 
+
+
+## Learning
+
+[Learning with Toys](https://www.youtube.com/watch?v=IhEovwWiniY)
+
+Jean Piaget was a psychologist that developed the theory of Constructivism: learning is an active process of reconstructing knowledge, rather than a transfer of knowledge.
+
+Seymour Papert build on this theroy and developed Contructionism: learning is a student-centered process rooted in experience, best supported through project-based methods in an evironment rich in different models.
+
+
+
+> "They are playing with toys in a very sophisticated way."
+
+I strongly beleive in Constructivism and Constructionism. 
+
+
+    |--Teaching--|------------------------------------------------Learning------------------------------------|
+
+
+I believe:
+
+- Teachers cannot transfer knowlege or understanding to students.
+- Rather than providing answers, teachers should be guiding students to the correct questions.
+- You must build the answers yourself to reach understanding. 
+- I don’t mean that facts are subjective or personal, but the way we understand them is.
+
 ## Learning to Program
 
+[Seymour Papert on computers 1972](https://www.youtube.com/watch?v=5dZMgdqy7zY)
+
+
 **Learning to program is not the point, but it is essential.**
+
 
 Programming is skill needed to design with computation, the most powerful technology.
 
@@ -80,24 +114,6 @@ You may not want to be a “coder” but you should want to be a “+coder”.
 You may not want to be a “writer”, but you should want to be “+writer”.
 In this field, coding and writing are basic literacy.
 
-## Learning
-
-Jean Piaget was a psychologist that developed the theory of Constructivism: learning is an active process of reconstructing knowledge, rather than a transfer of knowledge.
-
-Seymour Papert build on this theroy and developed Contructionism: learning is a student-centered process rooted in experience, best supported through project-based methods in an evironment rich in different models.
-
-I strongly beleive in Constructivism and Constructionism. 
-
-
-    |--Teaching--|------------------------------------------------Learning------------------------------------|
-
-
-I believe:
-
-- Teachers cannot transfer knowlege or understanding to students.
-- Rather than providing answers, teachers should be guiding students to the correct questions.
-- You must build the answers yourself to reach understanding. 
-- I don’t mean that facts are subjective or personal, but the way we understand them is.
 
 ## Announcements
 
@@ -105,5 +121,7 @@ I believe:
 - D12
 - DT Study
 - Long Table
+- Game Club
 - Motion Capture Jam
 - Equipment ERC + EQC + DT
+
