@@ -1,74 +1,67 @@
+---
+title: September 4
+layout: layouts/compform_plain.pug
+debug: false
+---
+
+## September 4 {plain}
+
+| Time  | ESA      | Type       | Activity                         |
+| ----- | -------- | ---------- | -------------------------------- |
+| 12:10 | Engage   | Warm Up    | ?                                |
+| 12:20 | Study    | Lecture    | 5 in 5 Part B                    |
+| 12:30 | Activate | Discussion | 5 in 5 WIP Exchange              |
+| 1:00  | Activate | Workshop   | HTML+CSS: CSS                    |
+| 1:30  | Activate | Workshop   | HTML+CSS: Chrome Developer Tools |
+| 2:00  | Activate | Workshop   | HTML+CSS: Working Locally        |
+| 2:30  | Activate | Workshop   | HTML+CSS: Git + Github           |
 
 
 
-Framing
-Can't not Communicate
+## 5 in 5 Case Study
+
+Introduction and discussion of the case study portion of the [5-in-5 assignment](../assignment_5in5.html).
+
+## 5 in 5 WIP Excange
+
+Share your work with studio and support one another in framing your work.
+
+### Share, Part 1
+*Pairs, 10 minutes*
+
+Partner 1
+
+- Present your work to your partner.
+- Briefly explain your two constraints.
+- Show the work you created, and briefly explain how each piece relates to your constraints.
+- Allow your partner time to take some notes.
+
+Partner 2
+
+- Silently listen to your partner.
+- Take notes to give to your partner.
 
 
-### Assignment Styles
+### Share, Part 2
+*Pairs, 10 minutes*
 
-| Style               | Focus           |
-| ------------------- | --------------- |
-| Step-by-Step        | What to do      |
-| Specifications      | What to make    |
-| Problem Description | What to solve   |
-| Theme               | What to explore |
-| Open                | When it's due   |
+Switch roles, repeat.
 
-You will often encounter very open problems, assignments, and briefs.
+### Reflect
+*Individual, 10 minutes*
 
-- Self-initiated research
-- Grant Requests for Proposals (RFPs)
-- Clients often don't know what they need. 
-- Clients often think they need something they don't.
-- Product and business development
-- Your Thesis
+Answer the following questions in your notebook. Spend two minutes on each answer, no more no less. Write everything that comes to mind, don't censor.
+
+- Why did you choose the constraints you did?
+- What is the best sketch? Why?
+- What is the worst sketch? Why?
+- Choose a sketch you might be interested in developing further. Describe what that project would be.
+- What would you do differently if you did this project again, on your own?
 
 
+## Homework
+*Due Tuesday Sept 6*
 
-### Systems Lab Assignments
-
-I have tried to keep my assignment prompts short, with a focus on contraints rather than deliverables. Without many specifics, you had to figure out what to do for yourself. Figuring out what to do is often the most critical part of the design process.
-
-
-### Self-Similar Design Process
-
-The 2D phase of this assignment was much more open than the research phase. 
-
-Designing is largely about creating solutions to problems.
-
-Not knowing what to do is a problem. Use design to create a solution.
-
-- What did you start with?
-- How did you decide what to do?
-- Did you use any of the tools or methods that we've discussed in class?
-- **Did you do any primary or secondary research?**
-- What other tools and methods did you use?
-- Do you have a personal process for getting started?
-
-
-
-Fractal Nature of Design Process
-
-
-If you don't understand things the end the assignment wasn't productive.
-If you do understaing things at beginning the assignment wasn't challenging.
-Ideally you shouldn't understand things at the beginning, but should at the end.
-
-
-Brief Prompts, you need to fill in.
-    Designer voice and values
-    Clients don't know what the need.
-
-Borrow "Narrowing In" notes from MS1
-What to theme -> What to solve -> What to make
-
-
-
-> Before I built a wall I'd ask to know
-> What I was walling in or walling out,
-> And to whom I was like to give offence.
-> Something there is that doesn't love a wall,
-> That wants it down.
-
-Robert Frost, Medning Wall{attrib}
+- 5 in 5 Case Study, Link in [Assignment Matrix](https://docs.google.com/spreadsheets/d/1OVtofA8TV2qSv_RnN7W7BAem_cFSkqaAivjmNusbYWU/edit?usp=sharing)
+- Complete the [CSS Challenge](https://jbakse.github.io/html_css_workshop/#h_22)
+- Complete the [Chrome Developer Tools Quiz](https://jbakse.github.io/html_css_workshop/#h_32)
