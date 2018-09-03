@@ -8,13 +8,14 @@ debug: false
 
 | Time  | ESA      | Type       | Activity                         |
 | ----- | -------- | ---------- | -------------------------------- |
-| 12:10 | Engage   | Warm Up    | ?                                |
+| 12:10 | Engage   | Warm Up    | Github Pages Challenge Check-in                                |
 | 12:20 | Study    | Lecture    | 5 in 5 Part B                    |
 | 12:30 | Activate | Discussion | 5 in 5 WIP Exchange              |
 | 1:00  | Activate | Workshop   | HTML+CSS: CSS                    |
 | 1:30  | Activate | Workshop   | HTML+CSS: Chrome Developer Tools |
 | 2:00  | Activate | Workshop   | HTML+CSS: Working Locally        |
 | 2:30  | Activate | Workshop   | HTML+CSS: Git + Github           |
+
 
 
 
