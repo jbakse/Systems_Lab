@@ -26,14 +26,14 @@ debug: false
 - Julia + Josefina
 - Lillian + Keaton
   
-Join your assigned group. Score your partner's assignment. Answer each question below, awarding the listed number of points for completed tasks.
+Join your assigned group. Score your partner's assignment by answering each question below, awarding the listed number of points for completed tasks.
 
 Go to the [assignment matrix](https://docs.google.com/spreadsheets/d/1OVtofA8TV2qSv_RnN7W7BAem_cFSkqaAivjmNusbYWU/edit).
 
-- Did your teammate post a link to the matrix? 1 point.
-- Does the link lead to their stub page? 1 point.
-- Does the stub page include their name? 1 point.
-- Does the stub page display an image? 1 point.
+- `1 point` Did your teammate post a link to the matrix?
+- `1 point` Does the link lead to their stub page?
+- `1 point` Does the stub page include their name?
+- `1 point` Does the stub page display an image?
 
 Open the stub page repo on github. You can find the repo based on the stub page URL:
 
@@ -41,15 +41,16 @@ Open the stub page repo on github. You can find the repo based on the stub page 
 
 Find the source for the stub page.
 
-- Is the source in the `/docs` folder? 1 point.
-- Is the source written using `.html` (not `.md`)? 1 point.
+- `1 point` Is the source in the `/docs` folder?
+- `1 point` Is the source written using `.html` (not `.md`)?
 
 Remember the total score.
 
 ## Thoughts
 
-### Coding is Creative not Procedural 
-### Learning to Code Requires Experience not Explanation
+### Coding is a **Skill** not **Knowledge**
+### Coding is **Creative** not **Procedural**
+### Learning to Code Requires **Experience** not **Explanation**
 
 ## 5 in 5 Case Study
 
