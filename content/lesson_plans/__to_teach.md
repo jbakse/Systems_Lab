@@ -4,10 +4,14 @@
 
 
 
-
+| 1:10  | Activate | Workshop | Systems Mapping      |
 
 
 ## September 11 {plain}
+
+
+| 12:20 | Study    | Lecture  | Sketches + Studies + Prototypes |
+
 
 
 | Time  | ESA      | Type          | Activity            |

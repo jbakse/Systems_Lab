@@ -8,14 +8,12 @@ debug: false
 ## September 6 {plain}
 
 
-| Time  | ESA      | Type     | Activity                        |
-| ----- | -------- | -------- | ------------------------------- |
-| 12:10 | Engage   | Warm Up  | ?                               |
-| 12:20 | Study    | Lecture  | Sketches + Studies + Prototypes |
-| 12:40 | Study    | Lecture  | Intro: Ideas in Form            |
-| 1:00  | Study    | Lecture  | Background Research             |
-| 1:30  | Activate | Workshop | Scoping                         |
-| 2:00  | Activate | Workshop | Systems Mapping                 |
+| Time  | ESA      | Type     | Activity                  |
+| ----- | -------- | -------- | ------------------------- |
+| 12:10 | Study    | Lecture  | Intro: Ideas in Form      |
+| 12:30 | Study    | Lecture  | Background Research       |
+| 12:50 | Activate | Workshop | Scoping                   |
+| 1:10  | Activate | Workshop | Git, Github, Hithub Pages |
 
 
 <!-- 
