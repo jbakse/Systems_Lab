@@ -8,7 +8,7 @@ debug: false
 
 | Time  | ESA      | Type       | Activity                         |
 | ----- | -------- | ---------- | -------------------------------- |
-| 12:10 | Engage   | Warm Up    | Github Pages Stub Check-in                                |
+| 12:10 | Engage   | Warm Up    | Github Pages Stub Check-in       |
 | 12:20 | Study    | Lecture    | 5 in 5 Part B                    |
 | 12:30 | Activate | Discussion | 5 in 5 WIP Exchange              |
 | 1:00  | Activate | Workshop   | HTML+CSS: CSS                    |
@@ -28,29 +28,32 @@ debug: false
   
 Join your assigned group. Score your partner's assignment by answering each question below, awarding the listed number of points for completed tasks.
 
-Go to the [assignment matrix](https://docs.google.com/spreadsheets/d/1OVtofA8TV2qSv_RnN7W7BAem_cFSkqaAivjmNusbYWU/edit).
+Go to the [assignment matrix](https://docs.google.com/spreadsheets/d/1OVtofA8TV2qSv_RnN7W7BAem_cFSkqaAivjmNusbYWU/edit) and open your partners stub page. Also open your partner's repo. You can find the repo based on the stub page URL:
+
+`https://abjoines.github.io/Systems/` -> `https://github.com/abjoines/Systems`
+
 
 - `1 point` Did your teammate post a link to the matrix?
 - `1 point` Does the link lead to their stub page?
 - `1 point` Does the stub page include their name?
 - `1 point` Does the stub page display an image?
-
-Open the stub page repo on github. You can find the repo based on the stub page URL:
-
-`https://abjoines.github.io/Systems/` -> `https://github.com/abjoines/Systems`
-
-Find the source for the stub page.
-
-- `1 point` Is the source in the `/docs` folder?
+- `.5 points` Does the page have anything noteworthy beyond the bare requirements of the assignment?
 - `1 point` Is the source written using `.html` (not `.md`)?
+- `.5 points` Is the source in the `/docs` folder?
 
-Remember the total score.
+Let your partner know their total score and write it down for later.
 
 ## Thoughts
 
 ### Coding is a **Skill** not **Knowledge**
 ### Coding is **Creative** not **Procedural**
 ### Learning to Code Requires **Experience** not **Explanation**
+
+
+I assigned the stub assignment to take stock, to make sure your are ready to begin your real assignments. It is less a test of what you know, and more a test of what you do. For some of you, this assignment was easier because you worked with HTML and Github in Code 1 and Code 2. Even if you have never worked with HTML or published with Github Pages before, there is no reason you should not have been able to complete this assignment. I'm not saying this assigment should be easy for all of you, I'm saying that I trust you are all able to work hard and put in the many hours it might take. As motivated DT juniors, every one of you should have gotten all six points on this project. 
+
+### Coding a **Puzzle** not a **Test**
+
 
 ## 5 in 5 Case Study
 
