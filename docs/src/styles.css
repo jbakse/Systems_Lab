@@ -482,6 +482,8 @@
     font-size: .8em;
     font-style: italic;
     margin-top: .5em; }
+  .comp-form-copy .pre {
+    white-space: pre; }
   .comp-form-copy .center {
     text-align: center; }
   .comp-form-copy .columns:after {

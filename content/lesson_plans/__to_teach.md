@@ -12,6 +12,11 @@
 
 | 12:20 | Study    | Lecture  | Sketches + Studies + Prototypes |
 
+[[ science fair presentation, with focused questions to answer and present to class (to bring some emphasis to reflection). “What did you learn from this!?” Exploring now, but want to be able to cite the things you’ve made to support future decisions]]
+
+
+
+[not just know the answers, but also to notice the answers]
 
 
 | Time  | ESA      | Type          | Activity            |
