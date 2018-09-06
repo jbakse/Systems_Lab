@@ -26,6 +26,10 @@ In pairs, choose a narrow topic of shared interest to research. Present your top
 
 At this point, you may wish to *reframe* or *narrow* your research topic, but don't *change* it.
 
+### Concept Mapping, Topic Scoping, Research Statement
+
+Use these tools to improve your research and planning. Include your concept map, topic scope list, and research statement on your project page.
+
 ### Secondary Research
 Explore the physical and online New School libraries.
 1. Find and study **two secondary sources**.
@@ -52,7 +56,7 @@ At this point, you may wish to *reframe* or *narrow* your research topic, but do
 
 
 ### Deliverables
-- Begin a single webpage to document your Ideas in Form project. It should contain the research links described above, and you will add to it throughout this project.
+- Begin a single webpage to document your Ideas in Form project. It should contain your research statement, topic scope list, concept map, and the research links described above. You will add to this project page throughout this project.
 - Create your presentation deck using Google slides.
 - Post links to your webpage and deck to the assignment matrix.
 
