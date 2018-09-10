@@ -4,12 +4,38 @@
 
 
 
-| 1:10  | Activate | Workshop | Systems Mapping      |
+
 
 
 ## September 11 {plain}
 
+| Time  | ESA      | Type           | Activity                      |
+| ----- | -------- | -------------- | ----------------------------- |
+| 12:10 | Study    | Lecture        | Research Presentation Rubrick |
+| 12:20 | Activate | Presentations  | Background Research           |
+| 1:00  | Study    | Live Code      | HTML CSS Stub                 |
+| 2:00  | Activate | Code Challenge | HTML CSS Stub                 |
 
+
+
+
+
+
+## September 13 {plain}
+
+| Time  | ESA      | Type          | Activity                        |
+| ----- | -------- | ------------- | ------------------------------- |
+| 12:10 | Activate | Presentations | Background Research             |
+| 12:50 | Study    | Lecture       | Sketches + Studies + Prototypes |
+| 1:20  | Study    | Lecture       | 2D + 3D Intro                   |
+| 1:40  | Activate | Discussion    | 5 in 5 Discussion               |
+
+
+
+## Kicked
+
+| 1:10  | Activate | Workshop | Systems Mapping      |
+FRAMING, Can't not communicate
 | 12:20 | Study    | Lecture  | Sketches + Studies + Prototypes |
 
 [[ science fair presentation, with focused questions to answer and present to class (to bring some emphasis to reflection). “What did you learn from this!?” Exploring now, but want to be able to cite the things you’ve made to support future decisions]]
@@ -19,23 +45,14 @@
 [not just know the answers, but also to notice the answers]
 
 
-| Time  | ESA      | Type          | Activity            |
-| ----- | -------- | ------------- | ------------------- |
-| 12:10 | Engage   | Warm Up       | ?                   |
-| 12:20 | Activate | Presentations | Background Research |
+| 12:50 | Engage   | Warm Up       | ?                   |
+| 12:20 | Activate | Workshop      | Documentation       |
+| 12:10 | Activate | Presentations | Background Research |
 | 1:20  | Activate | Discussion    | 5in5 Pages          |
 | 2:20  | ?        | ?             | ?                   |
 
 
-## September 13 {plain}
 
-
-| Time  | ESA      | Type     | Activity      |
-| ----- | -------- | -------- | ------------- |
-| 12:10 | Engage   | Warm Up  | ?             |
-| 12:20 | Activate | Workshop | Documentation |
-
-FRAMING, Can't not communicate
 
 
 
