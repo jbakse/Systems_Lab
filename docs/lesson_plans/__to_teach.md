@@ -5,29 +5,70 @@
 
 
 
+## September 18 {plain}
+
+| Time  | ESA      | Type          | Activity                |
+| ----- | -------- | ------------- | ----------------------- |
+| 12:10 | Activate | Presentations | 2D Studies Science Fair |
+| 1:10  | Study    | Lecture       | Framing                 |
+| 1:10  | Activate | Workshop      | Documentation Photos    |
 
 
-## September 11 {plain}
+### Science Fair
 
-| Time  | ESA      | Type           | Activity                      |
-| ----- | -------- | -------------- | ----------------------------- |
-| 12:10 | Study    | Lecture        | Research Presentation Rubrick |
-| 12:20 | Activate | Presentations  | Background Research           |
-| 1:00  | Study    | Live Code      | HTML CSS Stub                 |
-| 2:00  | Activate | Code Challenge | HTML CSS Stub                 |
+### Design Responsibility
+Every aspect of a design has an impact on the whole. That impact is not corelated with the effort spent by the designer. 
+As a designer you are responsible for every aspect of the design. You can't 
+
+Gestalt
+
+You can't avoid communicating.
+Each design decision *you make* communicates.
+Each design decision *you don't make* communicates also.
 
 
 
 
-## September 13 {plain}
+### Framing
+[NYC Garbage](http://nycgarbage.com/), [Fountain](https://www.tate.org.uk/art/artworks/duchamp-fountain-t07573)
 
-| Time  | ESA      | Type          | Activity                        |
-| ----- | -------- | ------------- | ------------------------------- |
-| 12:10 | Activate | Presentations | Background Research             |
-| 12:50 | Study    | Lecture       | Sketches + Studies + Prototypes |
-| 1:20  | Study    | Lecture       | 2D + 3D Intro                   |
-| 1:40  | Activate | Discussion    | 5 in 5 Discussion               |
+Video Game in context
+Logo in context
+Poseter on wall
 
+
+
+### Workshop: Documentation Photos 
+
+poster -- 
+object (gadget) -- Arduino
+website -- NYTimes
+clothing (wearable gadget) --
+logo
+sketches in a sketchbook
+
+
+Things to consider:
+Technical
+    Camera (Phone, Point-n-Shoot, DSLR, Toy, Scanner, Screengrab)
+    Lighting (Flash, General Indoor, Studio Directional, Studio 3 point, Window, Outdoor Overcast/Indirect, Outdoor Direct, Flash)
+    Depth of Field (short, narrow)
+    
+
+Context
+    FoV (Tight / Wide Crop)
+    Environment (White wall, seamless, gallery, pattern wall, scene, in-situ, workspace, public spaces)
+    People (No people, Hands, Faces, Groups, Kids)
+    Props ()
+
+
+1) Form Groups, Hand out Subject
+2) In Groups, Brainstorm Shots
+3) Split up and take a photo
+4) Come back and share them
+
+
+[ok cupid](https://theblog.okcupid.com/dont-be-ugly-by-accident-b378f261dea4)
 
 
 ## Kicked
@@ -50,30 +91,10 @@ FRAMING, Can't not communicate
 | 2:20  | ?        | ?             | ?                   |
 
 
+Workshop: Documentation Copy 
 
 
 
-
-
-
-### Assignment Styles
-
-| Style               | Focus           |
-| ------------------- | --------------- |
-| Step-by-Step        | What to do      |
-| Specifications      | What to make    |
-| Problem Description | What to solve   |
-| Theme               | What to explore |
-| Open                | When it's due   |
-
-You will often encounter very open problems, assignments, and briefs.
-
-- Self-initiated research
-- Grant Requests for Proposals (RFPs)
-- Clients often don't know what they need. 
-- Clients often think they need something they don't.
-- Product and business development
-- Your Thesis
 
 
 
