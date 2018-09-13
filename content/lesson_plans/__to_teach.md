@@ -19,8 +19,6 @@
 
 
 
-
-
 ## September 13 {plain}
 
 | Time  | ESA      | Type          | Activity                        |

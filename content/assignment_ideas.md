@@ -68,7 +68,7 @@ Working individually, create a 2D study exploring your area of research. Be prep
 
 ### 2D Constraints
 - This study should be static 2D. No depth, no time, no interaction.
-- Your study should be physical, print-outs are okay.
+- Your study should be physical.
 - Any physical 2D format is allowed including posters, drawings, and photographs.
 
 
