@@ -36,7 +36,7 @@ Studies are created to explore the relationship between form, subject, and purpo
 - Studies can develop an idea without the burden of completing it
 
 #### Prototypes
-Prototypes are created to test design ideas.
+Prototypes are created to test specific, proposed design ideas.
 - A prototype tests one or more characteristics of a proposed design option.  
 - A prototype directly embodies the characteristics being tested.
 
