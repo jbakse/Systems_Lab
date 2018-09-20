@@ -27,6 +27,8 @@ You can't avoid communicating.
 Each design decision *you make* communicates.
 
 Each design decision *you don't make* communicates.
+
+Watch out for defaults.
 </div>
 
 
