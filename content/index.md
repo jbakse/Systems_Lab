@@ -49,24 +49,26 @@ CT Lab Systems is a practical course on using design as a method of inquiry with
 | [2a September 4](lesson_plans/sep_4.html)          | Discuss: 5 in 5 WIP<br/> Workshop: HTML+CSS Basics                                                                                          | 5 in 5 Sketches                                                                                             |
 | [2b September 6](lesson_plans/sep_6.html)          | Kickoff: Ideas in Form<br/> Lecture: Sketches + Studies + Prototypes <br/>Workshop: Systems Mapping                                         | &nbsp;                                                                                                      |
 | **Studies:<br/>Ideas in Form**                     | &nbsp;                                                                                                                                      | &nbsp;                                                                                                      |
-| [3a September 11](lesson_plans/sep_11.html)        | Present: Ideas in Form Research<br/> Discuss: 5 in 5 Case Study                                                                             | <span class = "urgent">Research Presentation <br/> 5 in 5 Case Study <br/> Ideas in Form Case Study </span> |
-| [3b September 13](lesson_plans/sep_13.html)        | &nbsp;                                                                                                                                      | <span class = "urgent"> Case Study HTML w/ BONUS</span>                                                     |
+| [3a September 11](lesson_plans/sep_11.html)        | Present: Ideas in Form Research<br/> Discuss: 5 in 5 Case Study                                                                             | <span class = "">Research Presentation  </span>                                                             |
+| [3b September 13](lesson_plans/sep_13.html)        | &nbsp;                                                                                                                                      | <span class = ""> Case Study HTML w/ BONUS</span>                                                           |
 | [4a September 18](lesson_plans/sep_18.html)        | <br/> Workshop: Documentation Photos<br/>                                                                                                   | &nbsp;                                                                                                      |
 | [4b September 20](lesson_plans/sep_20.html)        | <span style="color: #6666FF">D4TC Lecture: Alice Sheppard</span><br/>Discuss: 2D Science Fair                                               | 2D Study                                                                                                    |
-| [5a September 25](#)                               | Discuss: 3D Science Fair <br/>Workshop: Paper Prototyping + Body Storming + Phone Boarding                                                  | 3D Study                                                                                                    |
-| [5b September 27](#)                               | <span style="color: #6666FF">D4TC Lecture: Amelia Winger-Bearskin</span>  <br/>Workshop: Paper Prototyping + Body Storming + Phone Boarding | &nbsp;                                                                                                      |
-| [6a October 2](#)                                  | Discuss: Interaction Science Fair                                                                                                           | Interactive Study <br/><span class = "urgent"> 5 in 5 Case Study FINAL DUE</span>                           |
-| **Prototypes:<br/>Instruction Sets for Strangers** | &nbsp;                                                                                                                                      | &nbsp;                                                                                                      |
-| [6b October 4](#)                                  | <span style="color: #6666FF">D4TC Lecture: Ram Devineni</span><br/>TBA                                                                      | Scout Report                                                                                                |
-| [October 8](#)                                     | <span style="color: #F00">BONUS MONDAY</span><br/> Techshop: Airtable Backend                                                               | &nbsp;                                                                                                      |
-| [7a October 9](#)                                  | Discuss: Intervention 1<br/>Workshop: Intersection Ideation                                                                                 | Intervention 1                                                                                              |
-| [7b October 11](#)                                 | Techshop: CLI API                                                                                                                           | &nbsp;                                                                                                      |
-| [8a October 16](#)                                 | Discuss: Intervention 2                                                                                                                     | Intervention 2                                                                                              |
-| **POCs:<br/>API**                                  | &nbsp;                                                                                                                                      | &nbsp;                                                                                                      |
-| [8b October 18](#)                                 | Techshop: API Challenge                                                                                                                     | &nbsp;                                                                                                      |
-| [9a October 23](#)                                 | Discuss: Tech POC Postmortem                                                                                                                | Tech Challenge                                                                                              |
-| **NCPs:<br/>Final Project**                        | &nbsp;                                                                                                                                      | &nbsp;                                                                                                      |
-| [9b October 25](#)                                 | Kickoff: Final Project<br/> Lecture: Domains + Precedents<br/> Workshop: Mapping Ideation                                                   | &nbsp;                                                                                                      |
+| [5a September 25](#)                               | Techshop: HTML/CSS Layout                                                                                                                   | &nbsp;                                                                                                      |
+| [5b September 27](#)                               | <span style="color: #6666FF">D4TC Lecture: Amelia Winger-Bearskin</span><br/>Discuss: 3D Science Fair                                       | 3D Study                                                                                                    |
+| [6a October 2](#)                                  | Discuss: Interaction Science Fair                                                                                                           | Interactive Study <br/><span class = "urgent"> 5 in 5 Case Study RESUB FINAL</span>                         |
+| **NCPs:<br/>Instruction Sets for Strangers**       | &nbsp;                                                                                                                                      | &nbsp;                                                                                                      |
+| [6b October 4](#)                                  | <span style="color: #6666FF">D4TC Lecture: Ram Devineni</span><br/>Workshop: Scout Planning                                                 | &nbsp;                                                                                                      |
+| [October 8](#)                                     | <span style="color: #F00">BONUS MONDAY</span><br/> Techshop: The DOM API                                                                    | &nbsp;                                                                                                      |
+| [7a October 9](#)                                  | Discuss: Scouting Report<br/>Workshop: Intersection Ideation                                                                                | Scouting Report                                                                                             |
+| [7b October 11](#)                                 | Workshop: Paper Prototyping, Body Storming, Phone Boarding                                                                                  | &nbsp;                                                                                                      |
+| [8a October 16](#)                                 | Discuss: Intervention 1                                                                                                                     | Intervention 1                                                                                              |
+| [8b October 18](#)                                 | Techshop: JSON Data APIs                                                                                                                    | &nbsp;                                                                                                      |
+| [9a October 23](#)                                 | Discuss: Intervention 2                                                                                                                     | Intervention 2                                                                                              |
+| **Presenting:<br/>Case Studies**                   | &nbsp;                                                                                                                                      | &nbsp;                                                                                                      |
+| **POCs:<br/>Data API**                             | &nbsp;                                                                                                                                      | &nbsp;                                                                                                      |
+| **Proposing:<br/>Final Project**                   | &nbsp;                                                                                                                                      | &nbsp;                                                                                                      |
+
+<!-- | [9b October 25](#)                                 | Kickoff: Final Project<br/> Lecture: Domains + Precedents<br/> Workshop: Mapping Ideation                                                   | &nbsp;                                                                                                      |
 | [10a October 30](#)                                | Present: Domain Research                                                                                                                    | Study 1, Precedent Research                                                                                 |
 | [10b November 1](#)                                | Discuss: Studies<br/> Workshop: Bodystorming + Phoneboarding + Yes, and...                                                                  | Study 2, Research                                                                                           |
 | [11a November 6](#)                                | Workshop: Direction Setting + Constraint Finding + Design Values                                                                            | Study 3, Research                                                                                           |
@@ -80,7 +82,7 @@ CT Lab Systems is a practical course on using design as a method of inquiry with
 | [15a December 4](#)                                | Discuss: Documentation                                                                                                                      | &nbsp;                                                                                                      |
 | [15b December 6](#)                                | Present: Rehersals                                                                                                                          | &nbsp;                                                                                                      |
 | [15a December 11](#)                               | Final Presentations{red}                                                                                                                    | Final Presentation                                                                                          |
-| [15b December 13](#)                               | Final Presentations{red}                                                                                                                    | &nbsp;                                                                                                      |
+| [15b December 13](#)                               | Final Presentations{red}                                                                                                                    | &nbsp;                                                                                                      | -->
 
 
 <style>
@@ -90,12 +92,12 @@ CT Lab Systems is a practical course on using design as a method of inquiry with
     color: white;
 }
 
-tr:nth-child(n+15),
-tr:nth-child(n+15) a[href^="#"]
+/* tr:nth-child(-n+10),
+tr:nth-child(-n+10) a[href^="#"]
  {
-    color: #CCC;
+    color: #CCC !important;
 
-}
+} */
 
 .temp {
     color: #BBB;
@@ -117,7 +119,7 @@ tr:nth-child(n+15) a[href^="#"]
     }
 
     .comp-form-toc .table a[href^="#"] {
-        color: black;
+**        color: black;
         text-decoration: none;
         border: none;
     }
