@@ -1,5 +1,5 @@
 ---
-title: September 18
+title: September 20
 layout: layouts/compform_plain.pug
 debug: false
 ---

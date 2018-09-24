@@ -48,3 +48,6 @@ Brief Prompts, you need to fill in.
 
 
 
+
+
+https://www.slideshare.net/DennisSchleicher/bodystorming-v6-powerpoint

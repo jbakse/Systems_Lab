@@ -107,5 +107,18 @@ Working individually, create a interactive study exploring your area of research
 
 
 
+# Part 4: Interactive
+Working individually, create a interactive study exploring your area of research. Be prepared to discuss your study, how it relates to your research topic, and what you learned from making it.
 
+Be prepared to **demonstration** your study in 1-2 minutes in class.
+
+### Interactive Constraints
+- Some form of user interaction should be central to this study.
+- You may use the “Wizard-of-Oz” protocol to realize this study.
+- Any physical media is allowed including wood, legos, paper, and cardboard.
+
+### Deliverables
+- Add photo documenation of your study to your project page.
+- Add a 1-2 minute video demonstrating your study to your project page.
+- Add at least 200 words discussing your study, how it relates to your research topic, and what you learned from making it.
 
