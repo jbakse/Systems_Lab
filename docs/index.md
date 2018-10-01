@@ -31,7 +31,7 @@ CT Lab Systems is a practical course on using design as a method of inquiry with
 - [Assignment 0: Studio Introduction](assignment_introduction.html)
 - [Assignment 1: Five in Five](assignment_5in5.html)
 - [Assignment 2: Ideas in Form](assignment_ideas.html)
-- [Assignment 3: Instruction Sets for Strangers](#)
+- [Assignment 3: Instruction Sets for Strangers](assignment_instruction_sets.html)
 - [Assignment 4: API Challenge](#)
 - [Assignment 5: Systems Lab Final](#)
 {plain}
@@ -55,7 +55,7 @@ CT Lab Systems is a practical course on using design as a method of inquiry with
 | [4b September 20](lesson_plans/sep_20.html)  | <span style="color: #6666FF">D4TC Lecture: Alice Sheppard</span><br/>Discuss: 2D Science Fair         | 2D Study                                                                            |
 | [5a September 25](lesson_plans/sep_25.html)  | Techshop: HTML/CSS Layout                                                                             | 2D Study Writing on Case Study                                                      |
 | [5b September 27](lesson_plans/sep_27.html)  | <span style="color: #6666FF">D4TC Lecture: Amelia Winger-Bearskin</span><br/>Discuss: 3D Science Fair | 3D Study                                                                            |
-| [6a October 2](#)                            | Discuss: Interaction Science Fair                                                                     | Interactive Study <br/><span class = "urgent"> 5 in 5 Case Study RESUB FINAL</span> |
+| [6a October 2](lesson_plans/oct_2.html)      | Discuss: Interaction Science Fair + 2D + 3D                                                           | Interactive Study <br/><span class = "urgent"> 5 in 5 Case Study RESUB FINAL</span> |
 | **NCPs:<br/>Instruction Sets for Strangers** | &nbsp;                                                                                                | &nbsp;                                                                              |
 | [6b October 4](#)                            | <span style="color: #6666FF">D4TC Lecture: Ram Devineni</span><br/>Workshop: Scout Planning           | &nbsp;                                                                              |
 | [October 8](#)                               | <span style="color: #F00">BONUS MONDAY</span><br/> Techshop: The DOM API                              | &nbsp;                                                                              |
