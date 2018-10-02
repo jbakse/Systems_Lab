@@ -54,6 +54,10 @@ Suppose that the study was fully developed. What benefit would it offer?
 Discuss the 2D, 3D, and Interaction Studies as a class.
 
 
+## Brief Intro to Instruction Sets
+
+Discuss the next assignment, [Instruction Sets for Strangers](../assignment_instruction_sets.html)
+
 <!-- ## Homework
 
 Check the [class schedule](../) for the revised assignment due dates.
