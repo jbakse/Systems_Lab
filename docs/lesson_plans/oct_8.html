@@ -24,8 +24,8 @@
 <table class="table table-responsive">
 <thead>
 <tr>
-<th>What to Do</th>
-<th>What to Know</th>
+<th>What to Do (Algorithm)</th>
+<th>What to Know (Data)</th>
 </tr>
 </thead>
 <tbody>
@@ -63,8 +63,34 @@
 </tr>
 </tbody>
 </table>
-<h4 id="data-model">Data Model</h4>
-<h4 id="model-view-controller">Model-View-Controller</h4>
-<h2 id="interaction-javascript">Interaction + Javascript</h2>
+<h3 id="data-model">Data Model</h3>
+<h3 id="model-view-controller">Model-View-Controller</h3>
+<blockquote>
+<p class="bigger">Model View Controller is an architectural pattern for developing user interfaces.</p>
+</blockquote>
+<p class="attrib">Wikipedia</p>
+<dl>
+<dt>Model</dt>
+<dd>Represents the application data. This includes the specific values:</dd>
+</dl>
+<pre><code>David, Anne, and Carrol exist. David's age is 3.
+</code></pre>
+<p>and the intended structure:</p>
+<pre><code>The application contains *people*. All *people* have an *age*. *Ages* can not be less than 0.
+</code></pre>
+<dl>
+<dt>View</dt>
+<dd>The view displays the data to the user and accepts user input.</dd>
+<dt>Controller</dt>
+<dd>The controller respons to user actions, updates the model, and coordinates the model and view.</dd>
+</dl>
+<p><a href="https://www.google.com/search?q=model+view+controller&amp;safe=off&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=0ahUKEwiUyd-6_uzdAhVjplkKHaL6C08Q_AUIDigB&amp;biw=1094&amp;bih=1070&amp;dpr=2.5">MVC Relationship Charts</a></p>
+<h3 id="mvc-the-browser">MVC + The Browser</h3>
+<p class="bigger">Model -&gt; DOM</p>
+<p class="bigger">View -&gt; Rendered Webpage</p>
+<p class="bigger">Controller -&gt; Javascript</p>
 <h2 id="manipulating-the-dom">Manipulating the DOM</h2>
+<p>You can use Javascript to manipulate the DOM. Your changes will be reflected on the rendered webpage. Note, that javascript isn’t chaning the HTML source. The browser builds the DOM from the source, and then javascript changes the DOM. The source is untouched, and reloading the page will reset the DOM.</p>
+<h2 id="interaction-javascript">Interaction + Javascript</h2>
+<p>You can use Javascript to respond to user interactions. When the user clicks a button, chooses an item from a dropdown, or hovers over an image the webpage will emit <em>events</em>. These events can be <em>listened</em> for by your code. Your code can then respond any way it wishes, including by manipulating the DOM.</p>
 </div><div class="container" id="scroll-out"></div></div></body></html>
