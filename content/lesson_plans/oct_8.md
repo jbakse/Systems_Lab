@@ -14,6 +14,7 @@ debug: false
 
 ## Background
 
+
 | What to Do (Algorithm) | What to Know (Data)      |
 | ---------------------- | ------------------------ |
 | operators              | literals                 |
@@ -26,9 +27,8 @@ debug: false
 | --- |
 | Objects |
 
-### Data Model
 
-### Model-View-Controller
+### Model View Controller
 
 > Model View Controller is an architectural pattern for developing user interfaces.{bigger}
 
@@ -55,6 +55,10 @@ Controller
 
 [MVC Relationship Charts](https://www.google.com/search?q=model+view+controller&safe=off&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiUyd-6_uzdAhVjplkKHaL6C08Q_AUIDigB&biw=1094&bih=1070&dpr=2.5)
 
+::: .callout
+Activity: Model a System
+/::
+
 
 ### MVC + The Browser
 
@@ -64,9 +68,34 @@ View -> Rendered Webpage{bigger}
 
 Controller -> Javascript{bigger}
 
-## Manipulating the DOM
+## What is in the DOM
+
+The DOM is a *tree* of the elements in your document, their attributes, and their state.
+
+::: .callout
+Activity: Model a Webpage
+/::
+
+## Inspecting and Manipulating the DOM
+
+The Chrome developer tools provide an inspector view for inspecting and editing the DOM. The console provides interactive inspection of DOM elements.
+
+```
+console.log("hello, world!");
+fruit = "banana";
+console.log(fruit);
+fruit;
+
+```
+
+[Paul Irish: Become a Javascript Console Power-User](https://www.youtube.com/watch?v=4mf_yNLlgic)
+
+
+## Manipulating the DOM w/ Javascript
 
 You can use Javascript to manipulate the DOM. Your changes will be reflected on the rendered webpage. Note, that javascript isn't chaning the HTML source. The browser builds the DOM from the source, and then javascript changes the DOM. The source is untouched, and reloading the page will reset the DOM.
+
+[MDN: DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 
 ## Interaction + Javascript
 

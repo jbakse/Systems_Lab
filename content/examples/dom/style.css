@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand:400,700');
+
+html {
+    /* text style */
+    font-family: 'Quicksand', sans-serif;
+    
+    /* pos */
+    margin: 0;
+    height: 100%;
+}
+
+body {
+    /* pos */
+    margin: 0;
+    height: 100%;
+    
+    /* block style */
+    background-color: #F7F7F7;
+    
+    /* flex */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#container {
+    /* sizing */
+    box-sizing: border-box;
+    margin: 50px;
+    border: 10px solid #444;
+    padding: 75px;
+    
+    /* block style */
+    background-color: #FFF;
+    box-shadow: 2px 2px 30px rgba(0,0,0,.1);
+    
+    /* text style */
+    color: #444;
+    text-align: center;
+}
+
+/* h1 {
+    font-size: 20px;
+    font-weight: bold;
+} */
+
+#message {
+    font-size: 30px;
+}
+
+.animal {
+    color: #B00;
+    font-weight: bold;
+}
+
+.fancy {
+    border: 10px dotted orange;
+    padding: .25em;
+}
+
+

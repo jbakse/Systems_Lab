@@ -63,8 +63,7 @@
 </tr>
 </tbody>
 </table>
-<h3 id="data-model">Data Model</h3>
-<h3 id="model-view-controller">Model-View-Controller</h3>
+<h3 id="model-view-controller">Model View Controller</h3>
 <blockquote>
 <p class="bigger">Model View Controller is an architectural pattern for developing user interfaces.</p>
 </blockquote>
@@ -85,12 +84,30 @@
 <dd>The controller respons to user actions, updates the model, and coordinates the model and view.</dd>
 </dl>
 <p><a href="https://www.google.com/search?q=model+view+controller&amp;safe=off&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=0ahUKEwiUyd-6_uzdAhVjplkKHaL6C08Q_AUIDigB&amp;biw=1094&amp;bih=1070&amp;dpr=2.5">MVC Relationship Charts</a></p>
+<div id="" class="callout">
+<p>Activity: Model a System</p>
+</div>
 <h3 id="mvc-the-browser">MVC + The Browser</h3>
 <p class="bigger">Model -&gt; DOM</p>
 <p class="bigger">View -&gt; Rendered Webpage</p>
 <p class="bigger">Controller -&gt; Javascript</p>
-<h2 id="manipulating-the-dom">Manipulating the DOM</h2>
+<h2 id="what-is-in-the-dom">What is in the DOM</h2>
+<p>The DOM is a <em>tree</em> of the elements in your document, their attributes, and their state.</p>
+<div id="" class="callout">
+<p>Activity: Model a Webpage</p>
+</div>
+<h2 id="inspecting-and-manipulating-the-dom">Inspecting and Manipulating the DOM</h2>
+<p>The Chrome developer tools provide an inspector view for inspecting and editing the DOM. The console provides interactive inspection of DOM elements.</p>
+<pre><code>console.log(&quot;hello, world!&quot;);
+fruit = &quot;banana&quot;;
+console.log(fruit);
+fruit;
+
+</code></pre>
+<p><a href="https://www.youtube.com/watch?v=4mf_yNLlgic">Paul Irish: Become a Javascript Console Power-User</a></p>
+<h2 id="manipulating-the-dom-w-javascript">Manipulating the DOM w/ Javascript</h2>
 <p>You can use Javascript to manipulate the DOM. Your changes will be reflected on the rendered webpage. Note, that javascript isn’t chaning the HTML source. The browser builds the DOM from the source, and then javascript changes the DOM. The source is untouched, and reloading the page will reset the DOM.</p>
+<p><a href="https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model">MDN: DOM</a></p>
 <h2 id="interaction-javascript">Interaction + Javascript</h2>
 <p>You can use Javascript to respond to user interactions. When the user clicks a button, chooses an item from a dropdown, or hovers over an image the webpage will emit <em>events</em>. These events can be <em>listened</em> for by your code. Your code can then respond any way it wishes, including by manipulating the DOM.</p>
 </div><div class="container" id="scroll-out"></div></div></body></html>
