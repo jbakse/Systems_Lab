@@ -21,6 +21,9 @@
 </tbody>
 </table>
 <h2 id="background">Background</h2>
+<h3 id="data-models">Data Models</h3>
+<p>When creating a computer program it is important to carefully consider both what the program should do and how the program should structure it’s data.</p>
+<p>The complexity of an algorithm needed to accomplish a task can vary greatly based on how the data is structured.</p>
 <table class="table table-responsive">
 <thead>
 <tr>
@@ -47,7 +50,7 @@
 </tr>
 <tr>
 <td>functions</td>
-<td>-</td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -63,6 +66,20 @@
 </tr>
 </tbody>
 </table>
+<p>In the real world, many entities require multiple values to be described. A rectangle can be described by its position and dimensions: <code>x</code>, <code>y</code>, <code>width</code>, <code>height</code>. Entities may also have related actions, like <code>draw()</code>.</p>
+<p>Javascript provides Objects to represent the data and actions related to an entity. Some programming languages have syntax for describing just an entity’s data. These are often called <em>records</em> or <em>structures</em>. Since Javascript doesn’t have structures, objects are used instead. When an object contains just data members, and no actions it might be called a <em>plain old data object</em>.</p>
+<p>In Javascript the values in an array or object can be mixed types. They can be primitive values like numbers or strings, objects, or arrays. By combining and nesting these types of data values, you can create complex data models.</p>
+<pre><code class="language-javascript">sprite = { 
+    <span class="hljs-attr">name</span>: <span class="hljs-string">"flappy"</span>,
+    <span class="hljs-attr">bounds</span>: {<span class="hljs-attr">x</span>:<span class="hljs-number">10</span>, <span class="hljs-attr">y</span>:<span class="hljs-number">10</span>, <span class="hljs-attr">width</span>: <span class="hljs-number">100</span>, <span class="hljs-attr">height</span>: <span class="hljs-number">100</span>},
+    <span class="hljs-attr">speed</span>: {<span class="hljs-attr">x</span>: <span class="hljs-number">10</span>, <span class="hljs-attr">y</span>: <span class="hljs-number">0</span>},
+    <span class="hljs-attr">currentFrame</span>: <span class="hljs-number">1</span>,
+    <span class="hljs-attr">frames</span>: [<span class="hljs-string">"flap_up.jpg"</span>, <span class="hljs-string">"flap_down.jpg"</span>]
+}
+</code></pre>
+<div id="" class="callout">
+<p>Activity: Model a System</p>
+</div>
 <h3 id="model-view-controller">Model View Controller</h3>
 <blockquote>
 <p class="bigger">Model View Controller is an architectural pattern for developing user interfaces.</p>
@@ -84,14 +101,14 @@
 <dd>The controller respons to user actions, updates the model, and coordinates the model and view.</dd>
 </dl>
 <p><a href="https://www.google.com/search?q=model+view+controller&amp;safe=off&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=0ahUKEwiUyd-6_uzdAhVjplkKHaL6C08Q_AUIDigB&amp;biw=1094&amp;bih=1070&amp;dpr=2.5">MVC Relationship Charts</a></p>
-<div id="" class="callout">
-<p>Activity: Model a System</p>
-</div>
+<p><img src="./images/mvc.png" alt="mvc"></p>
 <h3 id="mvc-the-browser">MVC + The Browser</h3>
 <p class="bigger">Model -&gt; DOM</p>
-<p class="bigger">View -&gt; Rendered Webpage</p>
+<p class="bigger">View -&gt; Web View</p>
 <p class="bigger">Controller -&gt; Javascript</p>
+<p><img src="./images/mvc2.png" alt="mvc2"></p>
 <h2 id="what-is-in-the-dom">What is in the DOM</h2>
+<p><a href="../examples/dom">Example</a></p>
 <p>The DOM is a <em>tree</em> of the elements in your document, their attributes, and their state.</p>
 <div id="" class="callout">
 <p>Activity: Model a Webpage</p>

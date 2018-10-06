@@ -14,6 +14,12 @@ debug: false
 
 ## Background
 
+### Data Models
+
+When creating a computer program it is important to carefully consider both what the program should do and how the program should structure it's data. 
+
+The complexity of an algorithm needed to accomplish a task can vary greatly based on how the data is structured.
+
 
 | What to Do (Algorithm) | What to Know (Data)      |
 | ---------------------- | ------------------------ |
@@ -21,11 +27,32 @@ debug: false
 | expressions            | variables                |
 | statements             | indexed arrays (lists)   |
 | control flow           | associative array (maps) |
-| functions              | -                        |
+| functions              | &nbsp;                   |
 
 | What to Do  + What to Know |
 | --- |
 | Objects |
+
+In the real world, many entities require multiple values to be described. A rectangle can be described by its position and dimensions: `x`, `y`, `width`, `height`. Entities may also have related actions, like `draw()`.
+
+Javascript provides Objects to represent the data and actions related to an entity. Some programming languages have syntax for describing just an entity's data. These are often called *records* or *structures*. Since Javascript doesn't have structures, objects are used instead. When an object contains just data members, and no actions it might be called a *plain old data object*.
+
+In Javascript the values in an array or object can be mixed types. They can be primitive values like numbers or strings, objects, or arrays. By combining and nesting these types of data values, you can create complex data models.
+
+``` javascript
+sprite = { 
+    name: "flappy",
+    bounds: {x:10, y:10, width: 100, height: 100},
+    speed: {x: 10, y: 0},
+    currentFrame: 1,
+    frames: ["flap_up.jpg", "flap_down.jpg"]
+}
+```
+
+
+::: .callout
+Activity: Model a System
+/::
 
 
 ### Model View Controller
@@ -47,6 +74,8 @@ and the intended structure:
 The application contains *people*. All *people* have an *age*. *Ages* can not be less than 0.
 ```
 
+
+
 View
 : The view displays the data to the user and accepts user input.
 
@@ -55,20 +84,25 @@ Controller
 
 [MVC Relationship Charts](https://www.google.com/search?q=model+view+controller&safe=off&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiUyd-6_uzdAhVjplkKHaL6C08Q_AUIDigB&biw=1094&bih=1070&dpr=2.5)
 
-::: .callout
-Activity: Model a System
-/::
+![mvc](./images/mvc.png)
+
+
 
 
 ### MVC + The Browser
 
 Model -> DOM{bigger}
 
-View -> Rendered Webpage{bigger}
+View -> Web View{bigger}
 
 Controller -> Javascript{bigger}
 
+
+![mvc2](./images/mvc2.png)
+
 ## What is in the DOM
+
+[Example](../examples/dom)
 
 The DOM is a *tree* of the elements in your document, their attributes, and their state.
 
