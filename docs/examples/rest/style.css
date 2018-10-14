@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+html {
+    font-family: 'Quicksand', sans-serif;
+}
+
+body {
+    text-align: center;
+    background: #EEE;
+}
+
+h1 {
+    font-size: 2rem;
+    margin-bottom: 1em;
+}
+
+#students {
+    margin: .5em;
+    list-style: none;
+    font-size: 5rem;
+    line-height: 1.5;
+}
+
+#students a {
+    color: #ff00ff;
+    text-decoration: none;
+    border-bottom: 4px dotted;
+}

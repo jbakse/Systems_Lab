@@ -1,0 +1,91 @@
+---
+title: October 11
+layout: layouts/compform_plain.pug
+debug: false
+---
+
+## October 11 {plain}
+
+| Time  | ESA      | Type         | Activity                 |
+| ----- | -------- | ------------ | ------------------------ |
+| 12:10 | Engage   | Lecture      | Introduction             |
+| 12:20 | Activate | Presentation | Intervention 1 - Group 1 |
+| 12:35 | Activate | Presentation | Intervention 1 - Group 2 |
+| 12:50 | Break    | Break        | Break                    |
+| 1:00  | Activate | Presentation | Intervention 1 - Group 3 |
+| 1:15  | Activate | Presentation | Intervention 1 - Group 4 |
+| 1:30  | Break    | Break        | Break                    |
+| 1:40  | Activate | Activity     | Copy Writing Workshop    |
+
+
+## Intervention 1 Presentations
+
+- Where was your intervention?
+- What was your intervention?
+- What interactions did you hope to encourage?
+- What did you learn about your intervention while building it?
+- What did you learn about your intervention while staging it?
+- What aspects of your project were successful? What aspects failed? Why?
+- How has your understanding of the space changed?
+- How has your understanding of your intervention changed?
+
+
+## Copy Writing Workshop
+
+Use [timeboxed](https://en.wikipedia.org/wiki/Timeboxing) writing to generate material for your Instruction Sets case study.
+
+1) **Limit** the time for each task to the time alloted. Don't go over.
+2) Use **all** of the the allotted time for each task. Don't stop early.
+
+### What went Right
+*individually, 3 minutes*
+
+List as many things as you can that went well during your first intervention. Consider planning, making, fielding, and documenting your intervention. 
+
+*groups, 7 minutes*
+
+Choose the top 3 to 5 things and express them as a clear, complete sentence. 
+
+### What went Wrong
+*individually, 3 minutes*
+
+List as many things as you can that went badly during your first intervention. Consider planning, making, fielding, and documenting your intervention. 
+
+*groups, 7 minutes*
+
+Choose the top 3 to 5 things and express them as a clear, complete sentence.
+
+### Describe your Intervention
+*individually, 5 minutes*
+
+Describe your intervention's *form*.
+
+*individually, 5 minutes*
+
+Describe your intervention's *function*.
+
+*individually, 5 minutes*
+
+Describe your intervention's *purpose*.
+
+*groups, 15 minutes*
+
+Using copy and paste, collage together your individual writing to create a 8 to 10 sentence description of your intervention. 
+- **DO NOT ADD TO, DELETE FROM, OR EDIT THE WRITING**
+- **You must use at least 2 sentences from each group member.**
+  
+*groups, 5 minutes*
+Create an edited, 5-sentence version of the description.
+
+*groups, 5 minutes*
+Create an edited, 1-sentence version of the description.
+
+
+
+
+
+
+
+
+
+

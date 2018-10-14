@@ -1,0 +1,214 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1"><link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32"><link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16"><!-- jquery--><script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script><!-- bootstrap--><script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script><link rel="stylesheet" href="/vendor/bootstrap/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous"><script src="/vendor/bootstrap/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script><!-- font awesome--><link rel="stylesheet" href="/vendor/font-awesome/css/font-awesome.min.css"><!-- syntax hilighting--><link rel="stylesheet" href="/vendor/highlightjs/css/atom-one-dark.css"><!-- styles--><link rel="stylesheet" href="/src/styles.css"><!--scripts--><script src="/src/bundle.js"></script><title>October 11 | Comp Form</title></head><body class="comp-form"><div id="content"><div class="container comp-form-copy" id="copy"><h2 id="october-11" class="plain">October 11</h2>
+<table class="table table-responsive">
+<thead>
+<tr>
+<th>Time</th>
+<th>ESA</th>
+<th>Type</th>
+<th>Activity</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>12:10</td>
+<td>Engage</td>
+<td>Activity</td>
+<td>Test Today’s App</td>
+</tr>
+<tr>
+<td>12:20</td>
+<td>Study</td>
+<td>Lecture</td>
+<td>Data-Driven Web Pages with REST</td>
+</tr>
+<tr>
+<td>12:40</td>
+<td>Activate</td>
+<td>Code Challenge</td>
+<td>Building a Static Page</td>
+</tr>
+<tr>
+<td>1:00</td>
+<td>Activate</td>
+<td>Code Challenge</td>
+<td>Adding Content with Javascript</td>
+</tr>
+<tr>
+<td>1:20</td>
+<td>Break</td>
+<td>Break</td>
+<td>Break</td>
+</tr>
+<tr>
+<td>1:30</td>
+<td>Activate</td>
+<td>Code Challenge</td>
+<td>Loading Data with Javascript</td>
+</tr>
+<tr>
+<td>2:00</td>
+<td>Activate</td>
+<td>Code Challenge</td>
+<td>Displaying Data with Content</td>
+</tr>
+</tbody>
+</table>
+<h2 id="todays-goal">Today’s Goal</h2>
+<p>link to demo
+link to google form
+link to google sheet</p>
+<h2 id="data-driven-web-pages-with-rest">Data-Driven Web Pages with REST</h2>
+<p>Recap chart…
+Document Object, DOM, DOM API, JAVASCRIPT, WEBVIEW</p>
+<p>Page rendering process:</p>
+<ol>
+<li>HTML is loaded by Browser</li>
+<li>Browser parses HTML and creates Document Object</li>
+<li>Web View visualizes Document Object</li>
+<li>Browser loads and runs Javascript</li>
+<li>Javascript requests JSON Data using the Google Sheets REST API</li>
+<li>Javascript parses JSON and updates Document Object</li>
+<li>Web View update visualization to reflect updated Document Object</li>
+</ol>
+<h3 id="rest-apis">REST APIs</h3>
+<p>REST API’s are a popular way for web-based services to provide information to client applications.</p>
+<p>For details on REST, this is a good place to start: <a href="https://www.codecademy.com/articles/what-is-rest">Codecademy: What is REST?</a></p>
+<p>Very briefly, REST APIs allow clients to request resources from servers. REST is a general architecture: each API will have its own request and resources formats. Its also good to know that REST is stateless: each request is independent, it doesn’t matter what requests happened previously.</p>
+<p>A client makes a request to retrieve or modify a resource using HTTP:</p>
+<pre><code class="language-json">// GET
+https://jsonplaceholder.typicode.com/todos/1
+</code></pre>
+<p>And the server responds wit the result of the request:</p>
+<pre><code class="language-json">{
+  <span class="hljs-attr">"userId"</span>: <span class="hljs-number">1</span>,
+  <span class="hljs-attr">"id"</span>: <span class="hljs-number">1</span>,
+  <span class="hljs-attr">"title"</span>: <span class="hljs-string">"delectus aut autem"</span>,
+  <span class="hljs-attr">"completed"</span>: <span class="hljs-literal">false</span>
+}
+</code></pre>
+<p>This response is in JSON. Not all REST APIs use JSON, but many do. The format of requests and responses is defined by each individual API.</p>
+<p>There are many, many API’s that use REST.</p>
+<p><a href="https://github.com/toddmotto/public-apis">Free Public APIs List</a></p>
+<p><a href="https://any-api.com/">Any API</a></p>
+<h3 id="authentication-authorization">Authentication + Authorization</h3>
+<p><strong>Authentication</strong> Are you really you?
+<strong>Authorization</strong> Are you allowed to do this?</p>
+<p>Some REST API’s don’t require Authentication at all, but others do. There are a number of ways Authentication and Authorization can be handled in a REST API. If the API you want to use requires Authentication + Authorization you’ll need to read its documentation to learn how to Authenticate.</p>
+<p><a href="https://blog.restcase.com/restful-api-authentication-basics/">RESTful API Authentication Basics</a></p>
+<h3 id="exploring-apis-wit-the-command-line">Exploring APIs wit the Command Line</h3>
+<p>Sometimes it can be handy to interact with a REST resource directly, using the CLI.</p>
+<p>These examples use <code>curl</code> a widely-available CLI app for transferring data to and from a server.</p>
+<p>The data is provided by <a href="https://jsonplaceholder.typicode.com/">JSONPlaceholder</a>, a dummy REST API for demos and tests.</p>
+<pre><code>curl https://jsonplaceholder.typicode.com/todos/1
+curl https://jsonplaceholder.typicode.com/todos
+curl https://jsonplaceholder.typicode.com/comments?postId=1
+</code></pre>
+<p>You can use the pipe <code>|</code> to send the output of curl to VS Code. This can be a handy trick.</p>
+<pre><code>curl https://jsonplaceholder.typicode.com/comments?postId=1 | code -
+</code></pre>
+<p>There are also a number of GUIs for exploring REST APIs</p>
+<ul>
+<li><a href="https://chrome.google.com/webstore/detail/restlet-client-rest-api-t/aejoelaoggembcahagimdiliamlcdmfm/related">Restlet Client Chrome Extension</a></li>
+<li><a href="https://insomnia.rest/">Insomnia App</a></li>
+<li><a href="https://www.getpostman.com/">Postman App</a></li>
+</ul>
+<h2 id="challenge-1-building-a-static-page">Challenge 1: Building a Static Page</h2>
+<p>Practice CSS by styling a simple HTML page to match a target style.</p>
+<p>This starting source is incomplete and may contain errors for you to fix!</p>
+<p class="bigger"><a href="../examples/rest/static.html">Target Style</a></p>
+<p><strong>Starting HTML</strong></p>
+<pre><code class="language-html"><span class="hljs-meta">&lt;!DOCTYPE html&gt;</span>
+<span class="hljs-tag">&lt;<span class="hljs-name">html</span> <span class="hljs-attr">lang</span>=<span class="hljs-string">"en"</span>&gt;</span>
+<span class="hljs-tag">&lt;<span class="hljs-name">head</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">title</span>&gt;</span>Google Sheets REST Demo<span class="hljs-tag">&lt;/<span class="hljs-name">title</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">link</span> <span class="hljs-attr">rel</span>=<span class="hljs-string">"stylesheet"</span> <span class="hljs-attr">href</span>=<span class="hljs-string">"style.css"</span>&gt;</span>
+<span class="hljs-tag">&lt;/<span class="hljs-name">head</span>&gt;</span>
+<span class="hljs-tag">&lt;<span class="hljs-name">body</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">h1</span>&gt;</span>Systems Lab 2018<span class="hljs-tag">&lt;/<span class="hljs-name">h1</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">ul</span> <span class="hljs-attr">id</span>=<span class="hljs-string">"students"</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">li</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-name">a</span> <span class="hljs-attr">href</span>=<span class="hljs-string">"https://github.com/jbakse"</span>&gt;</span>Justin Bakse<span class="hljs-tag">&lt;/<span class="hljs-name">a</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">li</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-name">a</span> <span class="hljs-attr">href</span>=<span class="hljs-string">"https://github.com/jbakse"</span>&gt;</span>Testy Testerson<span class="hljs-tag">&lt;/<span class="hljs-name">a</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">li</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-name">a</span> <span class="hljs-attr">href</span>=<span class="hljs-string">"https://github.com/jbakse"</span>&gt;</span>Fakey McFake<span class="hljs-tag">&lt;/<span class="hljs-name">a</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span>
+    <span class="hljs-tag">&lt;/<span class="hljs-name">ul</span>&gt;</span>
+<span class="hljs-tag">&lt;/<span class="hljs-name">body</span>&gt;</span>
+<span class="hljs-tag">&lt;/<span class="hljs-name">html</span>&gt;</span>
+</code></pre>
+<p><strong>Starting CSS</strong></p>
+<pre><code class="language-css">@<span class="hljs-keyword">import</span> url(<span class="hljs-string">'https://fonts.googleapis.com/css?family=Quicksand'</span>);
+
+<span class="hljs-selector-tag">html</span> {
+    <span class="hljs-attribute">font-family</span>: <span class="hljs-string">'Quicksand'</span>, sans-serif;
+}
+
+<span class="hljs-selector-tag">body</span> {
+    <span class="hljs-attribute">text-align</span>: center;
+    <span class="hljs-attribute">background</span>: <span class="hljs-number">#EEE</span>;
+}
+
+<span class="hljs-selector-tag">h1</span> {
+}
+
+<span class="hljs-selector-id">#students</span> {
+    <span class="hljs-attribute">list-style</span>: none;
+}
+
+<span class="hljs-selector-id">#students</span> <span class="hljs-selector-tag">a</span> {
+}
+</code></pre>
+<h2 id="challenge-2-adding-content-with-javascript">Challenge 2: Adding Content with Javascript</h2>
+<p>Add a <code>.js</code> file to your project and fix the errors.</p>
+<p><strong>Starting JS</strong></p>
+<pre><code class="language-javascript"><span class="hljs-built_in">console</span>.log(<span class="hljs-string">'Hello, DOM!'</span>);
+
+<span class="hljs-built_in">window</span>.onload = main;
+
+<span class="hljs-function"><span class="hljs-keyword">function</span> <span class="hljs-title">main</span>(<span class="hljs-params"></span>) </span>{
+  <span class="hljs-built_in">console</span>.log(Hello, main()!);
+  <span class="hljs-keyword">const</span> studentList = <span class="hljs-built_in">document</span>.getElementById(<span class="hljs-string">'student'</span>);
+  <span class="hljs-keyword">const</span> newLi = <span class="hljs-built_in">document</span>.createElement(<span class="hljs-string">'li'</span>);
+  newLi.innerHTML = <span class="hljs-string">'&lt;a href="#"&gt;Mr. Javascript&lt;/a&gt;'</span>;
+  studentsList.appendChild(newLi);
+}
+</code></pre>
+<p>Add this <code>script</code> tag to your <code>.html</code> just before the closing <code>&lt;/body&gt;</code> tag.</p>
+<pre><code class="language-html"><span class="hljs-tag">&lt;<span class="hljs-name">script</span> <span class="hljs-attr">src</span>=<span class="hljs-string">"dom.js"</span>&gt;</span><span class="undefined"></span><span class="hljs-tag">&lt;/<span class="hljs-name">script</span>&gt;</span>
+</code></pre>
+<h2 id="loading-data-with-javascript">Loading Data with Javascript</h2>
+<p>Add this to the end of your javascript file and study it.</p>
+<pre><code class="language-javascript"><span class="hljs-built_in">console</span>.log(<span class="hljs-string">'Hello, DATA!'</span>);
+
+fetch(<span class="hljs-string">'https://jsonplaceholder.typicode.com/todos/1'</span>)
+  .then(<span class="hljs-function"><span class="hljs-params">response</span> =&gt;</span> response.json())
+  .then(gotJSON);
+
+
+<span class="hljs-function"><span class="hljs-keyword">function</span> <span class="hljs-title">gotJSON</span>(<span class="hljs-params">json</span>) </span>{
+  <span class="hljs-built_in">console</span>.log(<span class="hljs-string">'Hello, gotJSON()!'</span>);
+  <span class="hljs-built_in">console</span>.log(json);
+  <span class="hljs-built_in">console</span>.log(json.title);
+  <span class="hljs-built_in">console</span>.log(<span class="hljs-string">`My id is <span class="hljs-subst">${json.id}</span>!`</span>);
+}
+</code></pre>
+<h2 id="displaying-data-with-javascript">Displaying Data with Javascript</h2>
+<h3 id="publishing-a-google-sheet">Publishing a Google Sheet</h3>
+<p>I set up a Google Form that stores responses in a spreadsheet. You can access the sheet data as a JSON object using this URL Template:</p>
+<pre><code>https://spreadsheets.google.com/feeds/list/${document_id}/{sheet_id}/public/values?alt=json
+</code></pre>
+<p>You’ll need the <code>document_id</code> which you can find in the url:</p>
+<p>Document URL:</p>
+<pre><code>https://docs.google.com/spreadsheets/d/1e5lwamCY3ieZ7vWm6n9hn0UfYvjZrSBOtMWtwd5MwKw/edit#gid=1453659823
+</code></pre>
+<p>Document ID:</p>
+<pre><code>1e5lwamCY3ieZ7vWm6n9hn0UfYvjZrSBOtMWtwd5MwKw
+</code></pre>
+<p>You’ll also need the <code>sheet_id</code>. If you want the first sheet use <code>1</code> or <code>defualt</code></p>
+<p>Putting it together you can get a JSON feed of the test sheet at:</p>
+<pre><code>https://spreadsheets.google.com/feeds/list/1e5lwamCY3ieZ7vWm6n9hn0UfYvjZrSBOtMWtwd5MwKw/default/public/values?alt=json
+</code></pre>
+<p><a href="https://spreadsheets.google.com/feeds/list/1e5lwamCY3ieZ7vWm6n9hn0UfYvjZrSBOtMWtwd5MwKw/default/public/values?alt=json">See the JSON feed in your browser.</a></p>
+<p>It can be handy to have JSON files formatted in your browser, and you can get extensions to do that for you.
+<a href="https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa">JSON Formatter</a></p>
+<h3 id="google-sheets-api">Google Sheets API</h3>
+<p>The Google Sheets API lets you read and modify Google spreadsheets. It is more complicated than the approach above but much more powerful.</p>
+<p><a href="https://developers.google.com/sheets/api/guides/concepts">Google Sheets API Guide</a></p>
+</div><div class="container" id="scroll-out"></div></div></body></html>
