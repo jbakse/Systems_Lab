@@ -30,7 +30,7 @@ debug: false
 - How has your understanding of your intervention changed?
 
 
-## Copy Writing Workshop
+## Debrief Workshop
 
 Use [timeboxed](https://en.wikipedia.org/wiki/Timeboxing) writing to generate material for your Instruction Sets case study.
 
