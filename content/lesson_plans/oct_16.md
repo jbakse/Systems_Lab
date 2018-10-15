@@ -37,25 +37,30 @@ Use [timeboxed](https://en.wikipedia.org/wiki/Timeboxing) writing to generate ma
 1) **Limit** the time for each task to the time alloted. Don't go over.
 2) Use **all** of the the allotted time for each task. Don't stop early.
 
-### What went Right
+### What Went Right?
 *individually, 3 minutes*
 
-List as many things as you can that went well during your first intervention. Consider planning, making, fielding, and documenting your intervention. 
+Think of everything that went well during your first intervention. Consider planning, making, fielding, and documenting your intervention. List as many of these "findings" as you can.
 
 *groups, 7 minutes*
 
-Choose the top 3 to 5 things and express them as a clear, complete sentence. 
+Compare your lists.
+Choose the most interesting 3 to 5 findings.
+Express them as a clear, complete sentence. 
 
-### What went Wrong
+### What Went Wrong?
 *individually, 3 minutes*
 
-List as many things as you can that went badly during your first intervention. Consider planning, making, fielding, and documenting your intervention. 
+Think of everything that went worng during your first intervention. Consider planning, making, fielding, and documenting your intervention. List as many of these "findings" as you can.
+
 
 *groups, 7 minutes*
 
-Choose the top 3 to 5 things and express them as a clear, complete sentence.
+Compare your lists.
+Choose the most interesting 3 to 5 findings.
+Express them as a clear, complete sentence. 
 
-### Describe your Intervention
+### Describe Your Intervention
 *individually, 5 minutes*
 
 Describe your intervention's *form*.
@@ -70,14 +75,16 @@ Describe your intervention's *purpose*.
 
 *groups, 15 minutes*
 
-Using copy and paste, collage together your individual writing to create a 8 to 10 sentence description of your intervention. 
+Using copy and paste only, collage together your individual writing to create a 8 to 10 sentence description of your intervention. 
 - **DO NOT ADD TO, DELETE FROM, OR EDIT THE WRITING**
 - **You must use at least 2 sentences from each group member.**
   
 *groups, 5 minutes*
+
 Create an edited, 5-sentence version of the description.
 
 *groups, 5 minutes*
+
 Create an edited, 1-sentence version of the description.
 
 
