@@ -1,10 +1,10 @@
 ---
-title: October 11
+title: October 18
 layout: layouts/compform_plain.pug
 debug: false
 ---
 
-## October 11 {plain}
+## October 18 {plain}
 
 
 | Time  | ESA      | Type           | Activity                       |
@@ -18,27 +18,53 @@ debug: false
 | 2:00  | Activate | Code Challenge | Displaying Data with Content   |
 
 
-## Today's Goal
+## Today We Make This
 
-link to demo
-link to google form
-link to google sheet
+Today we will build this simple, data-driven web page that pulls data submitted by a google form.
 
-## Data-Driven Web Pages with REST
+[The Web Page](../examples/rest/4_sheet.html){bigger}
 
-Recap chart...
-Document Object, DOM, DOM API, JAVASCRIPT, WEBVIEW
+[The Google Form](https://goo.gl/forms/IodqYKkWCRmM2ouq1){bigger}
+
+[The Published Google Sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRiMkEVoeGJHQaHHDxy5jttwckmoxC14AOdWHhNxEB9aNq98C6KFhY8K97PUbI6AYeu8bQbClgjKXUZ/pubhtml){bigger}
+
+[The Published Google Sheet in JSON](https://spreadsheets.google.com/feeds/list/1e5lwamCY3ieZ7vWm6n9hn0UfYvjZrSBOtMWtwd5MwKw/default/public/values?alt=json){bigger}
+
+[The Editable Google Sheet](https://docs.google.com/spreadsheets/d/1e5lwamCY3ieZ7vWm6n9hn0UfYvjZrSBOtMWtwd5MwKw/edit#gid=1453659823){bigger}
+
+<br/>
+<br/>
+
+Note that the sheet published but not shared publicly. You need to be shared on the document to edit it in the sheets application.
+
+### Basic Computer Games
+
+Reading code is a good way to learn to write code.
+
+![Basic Computer Games Cover](https://www.atariarchives.org/basicgames/pages/pagecover.jpg)
+[Archive of Basic Computer Games](https://www.atariarchives.org/basicgames/)
+
+
+## Data-Driven Web Pages
+
+![DOM MVC](./images/mvc_data.png)
+
 
 Page rendering process:
-1. HTML is loaded by Browser
+1. Browser loads HTML
 2. Browser parses HTML and creates Document Object
-3. Web View visualizes Document Object
+3. Web View renders Document Object
 4. Browser loads and runs Javascript
 5. Javascript requests JSON Data using the Google Sheets REST API
 6. Javascript parses JSON and updates Document Object
-7. Web View update visualization to reflect updated Document Object
+7. Web View updates to reflect updated Document Object
 
 ### REST APIs
+
+::: .callout
+Google Sheets provides a very simple way to get the data of a published sheet as JSON, so we don't need a full API for this simple demo. That said, its a good idea to know a little about REST APIs.
+/::
+
 
 REST API's are a popular way for web-based services to provide information to client applications. 
 
@@ -77,6 +103,7 @@ There are many, many API's that use REST.
 ### Authentication + Authorization
 
 **Authentication** Are you really you?
+
 **Authorization** Are you allowed to do this?
 
 Some REST API's don't require Authentication at all, but others do. There are a number of ways Authentication and Authorization can be handled in a REST API. If the API you want to use requires Authentication + Authorization you'll need to read its documentation to learn how to Authenticate.
@@ -118,7 +145,7 @@ Practice CSS by styling a simple HTML page to match a target style.
 
 This starting source is incomplete and may contain errors for you to fix!
 
-[Target Style](../examples/rest/static.html){bigger}
+[Target Style](../examples/rest/1_static.html){bigger}
 
 **Starting HTML**
 ```html
@@ -169,7 +196,7 @@ h1 {
 
 ## Challenge 2: Adding Content with Javascript
 
-Add a `.js` file to your project and fix the errors.
+Create a `dom.js` file in your project, add this code, and fix the errors.
 
 **Starting JS**
 ```javascript
@@ -220,7 +247,7 @@ function gotJSON(json) {
 
 ### Publishing a Google Sheet
 
-I set up a Google Form that stores responses in a spreadsheet. You can access the sheet data as a JSON object using this URL Template:
+I set up a Google Form that stores responses in a Google Sheet. You can access the sheet data as a JSON object using this URL Template:
 
 ```
 https://spreadsheets.google.com/feeds/list/${document_id}/{sheet_id}/public/values?alt=json
@@ -257,3 +284,50 @@ It can be handy to have JSON files formatted in your browser, and you can get ex
 The Google Sheets API lets you read and modify Google spreadsheets. It is more complicated than the approach above but much more powerful. 
 
 [Google Sheets API Guide](https://developers.google.com/sheets/api/guides/concepts)
+
+
+### Putting it Together
+
+Replace your Javascript with this code and study it.
+
+```javascript
+console.log('Hello, Sheet!');
+
+// update on dom load
+window.onload = requestJSON;
+
+// update every 10 seconds
+setInterval(requestJSON, 10000);
+
+// request data from google sheets
+function requestJSON() {
+  fetch('https://spreadsheets.google.com/feeds/list/1e5lwamCY3ieZ7vWm6n9hn0UfYvjZrSBOtMWtwd5MwKw/default/public/values?alt=json')
+    .then(response => response.json())
+    .then(gotJSON);
+}
+
+// recieve response from google sheets
+function gotJSON(json) {
+  console.log('Update Data');
+  const entries = json.feed.entry;
+
+  // get the list
+  const studentList = document.getElementById('students');
+
+  // clear existing items
+  studentList.innerHTML = '';
+
+  // add new items from JSON
+  for (const entry of entries) {
+    // alias data
+    const first = entry.gsx$firstname.$t;
+    const last = entry.gsx$lastname.$t;
+    const github = entry.gsx$githubname.$t;
+
+    // build li w/ template
+    const newLi = document.createElement('li');
+    newLi.innerHTML = `<a href="http://github.com/${github}">${first} ${last}</a>`;
+    studentList.appendChild(newLi);
+  }
+}
+```
