@@ -73,22 +73,27 @@ CT Lab Systems is a practical course on using design as a method of inquiry with
 | [11b November 8](#)                           | Tech Assignment Kickoff                                                                               | Full Portfolio Revisions                                                            |
 | **Technical Study:<br/>Data-driven Web Page** | &nbsp;                                                                                                | &nbsp;                                                                              |
 | [12a November 13](#)                          | Discussion: DD Page                                                                                   | DD Page                                                                             |
-| [12b November 15](#)                          | Workshop: Systems Mapping                                                                             | &nbsp;                                                                              |
+| [12b November 15](#)                          | Workshop: Systems Mapping                                                                             | DD Case Study                                                                       |
 | **Critical Design:<br/>Emerging Futures**     | &nbsp;                                                                                                | &nbsp;                                                                              |
-| [13a November 20](#)                          | TBA                                                                                                   | DD Case Study                                                                       |
+| [November 19](#)                              | <span style="color: #F00">BONUS MONDAY</span><br/> Discussion: Systems Mapping                        | Systems Mapping                                                                     |
+| [13a November 20](#)                          | Workshop: Predictive Product Pitch                                                                    | &nbsp;                                                                              |
 | [13b November 22](#)                          | <span style="color: #F00">NO CLASS: THANKSGIVING</span>                                               | &nbsp;                                                                              |
-| [14a November 27](#)                          | Discussion: Futures Map + Zap                                                                         | Futures Map + Zap                                                                   |
-| [14b November 29](#)                          | Workshop: Future Tech                                                                                 | &nbsp;                                                                              |
-| [15a December 4](#)                           | Discussion: Future Tech                                                                               | Future Tech Story + Skit                                                            |
-| [14a December 6](#)                           | Workshop: Future Exhibit                                                                              | &nbsp;                                                                              |
-| [14a December 11](#)                          | Discussion: Future Exhibit Diorama                                                                    | Futures Exhibit Diorama                                                             |
-| [14a December 13](#)                          | Post-mortem Party                                                                                     | Futures Case Study                                                                  |
+| [14a November 27](#)                          | Discussion: Predictive Product Pitch                                                                  | Predictive Product Pitch                                                            |
+| [14b November 29](#)                          | Workshop: <span class="redacted">Qvfnfgre Rkuvovg</span>                                              | &nbsp;                                                                              |
+| [15a December 4](#)                           | Discussion: <span class="redacted">Qvfnfgre Rkuvovg</span>                                            | <span class="redacted">Qvfnfgre Rkuvovg</span>                                      |
+| [15b December 6](#)                           | Workshop: Emerging Futures Case Study                                                                 | &nbsp;                                                                              |
+| [16a December 11](#)                          | TBA                                                                                                   | Emerging Futures Case Study                                                         |
+| [16b December 13](#)                          | <span style="color: #F00">Class Swap!</span> Studio Presentations                                     | &nbsp;                                                                              |
+| [17a December 17](#)                          | <span style="color: #F00">Class Swap!</span> Lab Post-mortem Party                                    | &nbsp;                                                                              |
 
 
-<!-- | [November 18](#)                              | <span style="color: #F00">BONUS MONDAY</span><br/> TBA                                                | &nbsp;                                                                              | -->
 
 
 <style>
+
+.redacted {
+    background-color: black;
+}
 
 .urgent {
     background: red;
