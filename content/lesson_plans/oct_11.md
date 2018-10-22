@@ -77,12 +77,21 @@ Create a "phoneboard" of your idea.
 *30 minutes*
 
 - Where will you field-test this intervention? Why?
+  
+  *1 minute*
 - When will you field-test this intervention? Why?
-- What do you need to build to field-test this intervention? 
-  List everything you can think of. Describe each item's size, material, and other important characteristics.
-- What do you need to bring to field-test this intervention?
+  
+  *1 minute*
 - How will you document the user interaction? List 3 ways.
+  
+  *5 minutes*
+- What do you need to bring and/or build to field-test this intervention? 
+  List everything you can think of. Describe each item's size, material, and other important characteristics.
+  
+  *10 minutes*
 - What are the responsibilities of each person in your team this week? Make note of task deadlines and dependencies.
+  
+  *10 minutes*
 
 
 

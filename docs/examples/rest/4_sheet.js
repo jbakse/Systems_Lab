@@ -1,5 +1,6 @@
 console.log('Hello, Sheet!');
 
+
 // update on dom load
 window.onload = requestJSON;
 
@@ -37,6 +38,7 @@ function gotJSON(json) {
   studentList.innerHTML = '';
 
   // add new items from JSON
+  // eslint-disable-next-line
   for (const entry of entries) {
     // alias data
     const first = entry.gsx$firstname.$t;
