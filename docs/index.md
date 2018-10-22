@@ -34,7 +34,7 @@ CT Lab Systems is a practical course on using design as a method of inquiry with
 - [Assignment 3: Instruction Sets for Strangers](assignment_instruction_sets.html)
 - [Assignment 4: Case Study Portfolio](assignment_portfolio.html)
 - [Assignment 5: Data-driven Web Page](assignment_data.html)
-- [Assignment 6: Emerging Futures](#)
+- [Assignment 6: Emerging Futures](assignment_futures.html)
 {plain}
 
 
