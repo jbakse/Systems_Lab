@@ -54,7 +54,7 @@ Create and publish unified portfolio that showcases both you and your work.
 
 *Due Thursday, Oct 25*
 
-Choose 3 portfolio websites to use as *precedents* when planning your own and list 5 things you like and 5 things you dislike about each website. 
+Choose 3 portfolio websites to use as *precedents* when planning your own and explain 3 things you like and 3 things you dislike about each website. Choose specific things and explain why.
 
 Choose one portfolio website representing each of the following categories:
 
@@ -76,7 +76,7 @@ Complete the planning document started in Thursday's planning workshop.
 
 *Due Thursday, Nov 1*
 
-Complete a website scaffold with stubs for each page, the full navigation, and a full Case Study for one of your System Labs projects.
+Complete a website scaffold with stubs for each page, the full navigation, and a full case study for _Ideas in Form_.
 
 ### Part 4: Full Portfolio
 
