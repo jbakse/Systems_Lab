@@ -15,7 +15,7 @@ ul.plain {
 }
 </style>
 
-# CT Systems Lab Fall 2018 
+# CT Systems Lab Fall 2018  
 
 <div class="col-6 col-md-6 overview top">
 CT Lab Systems is a practical course on using design as a method of inquiry with a focus on process-oriented design, design research methods, and creative studio practice.
