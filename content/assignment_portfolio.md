@@ -6,7 +6,7 @@ debug: false
 
 # Assignment 4: Case Study Portfolio
 
-Great work won't get you much if know one knows about it. A decent designer that is great a self-promotion will do better than a great designer who sucks at it. Don't let your talent, skill, and effort go to waste; make sure people see what you do. 
+Great work won't get you much if no one knows about it. A decent designer that is great a self-promotion will do better than a great designer who sucks at it. Don't let your talent, skill, and effort go to waste; make sure people see what you do. 
 
 ::: .callout
 You should use this assignment to create a digital portfolio you are proud of. One that represents you and your work the way you want to represented and that you are eager to show to others. 
@@ -25,7 +25,7 @@ Create and publish unified portfolio that showcases both you and your work.
 - Your portfolio must contain case studies for *5 in 5*, *Ideas in Form*, *Instruction Sets*, and **at least one project created outside of Systems Lab.**
 - Each case study should be presented on its own page.
 - Each case study should be clear, interesting, organized, and well designed.
-- Your portfolio should also contain a home page, and at least 1 other page with content of your choosing.
+- Your portfolio should also contain a home page, and at least 2 other pages with content of your choosing.
 - You must create a unique portfolio not shared with any of your team members from this semester. You may, however, include photographic or written documentation that you generated with your team.
 
 ### Tips
