@@ -10,7 +10,7 @@ Systems Lab has been primarily about using design as a method of inquiry and res
 
 # Part 1:  Systems Map + Report
 
-*Due Tuesday, Nov 27*
+*Due Tuesday, Nov 19*
 
 ### Objective
 
@@ -20,22 +20,22 @@ Research an assigned emerging technology, create a detailed systems map contextu
 
 - Follow the mapping format used in the workshop.
 - Your assigned technology should be near the center of your systems map.
-- Your map should include **all** of "impact targets" listed below.
-- Your map should include 50 to 60 interconnected entities.
+- Your map should include **at least 5** of "impact targets" listed below.
+- Your map should include 40 to 60 interconnected entities.
 - **Every** connection should use a verb and single or double arrow to explain the relationship.
 - Use additional markings as you see fit to call out interesting features of your map.
-- Your map should be nicely designed, printed or **very neatly** **hand drawn, and at least 24x24 inches.
+- Your map should be nicely designed, printed or **very neatly** hand drawn, and at least 24x24 inches.
 
 ### Presentation Constraints
 
 - Your presentation should be exactly 4 minutes long.
-- Specifically mention each of your primary and secondary sources by name and at least one finding from each.
 - Your presentation should be supported by slides.
 - Use exactly 8 slides.
 - Prefer images to text on your slides.
 - No more than 8 words on a slide.
 - Describe your emerging technology.
 - Choose and discuss an interesting "path" or "cluster" from your map. Detail each entity in the cluster and the relationships between them.
+- After your presentation be prepared to discuss your systems map and answer questions about your topic informally for 6 minutes.
 
 <!-- ### Technologies
 
@@ -65,7 +65,14 @@ Voting, Local Newspapers, Traffic Tickets, Small Claims Court, Kindergarten, Dri
 
 ### Tips
 
+- Use your research to guide the mapping process.
+- Use the mapping process to guide your research.
+- Include important people, organizations, ideas, and inventions.
+- Look forward and backward in time.
+- Focus on high quality relationships. 
 - Use specific verbs: "threatens" is better than "impacts"
+- Look for emerging groups and trends and elaborate them.
+- Include all the impact targets for a bonus.
 
 ### Deliverables
 
@@ -80,7 +87,7 @@ Voting, Local Newspapers, Traffic Tickets, Small Claims Court, Kindergarten, Dri
 
 # Part 2:  Predictive Product Pitch
 
-*Due Tuesday, December 4*
+*Due Tuesday, Nov 27*
 
 ### Objective
 
@@ -119,7 +126,7 @@ Imagine a product that your technology will enable in the next 5 to 10 years. Cr
 
 <!-- # Part 3:  Disaster Exhibit
 
-*Due Tuesday, December 11*
+*Due Tuesday, December 4*
 
 ### Objective
 
