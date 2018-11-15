@@ -12,6 +12,8 @@ Systems Lab has been primarily about using design as a method of inquiry and res
 
 *Due Tuesday, Nov 19*
 
+*5 hours researching + mapping, 2 hour presentation prep*
+
 ### Objective
 
 Research an assigned emerging technology, create a detailed systems map contextualizing your technology and its potential impact, and present your findings to the class.
@@ -89,6 +91,8 @@ Voting, Local Newspapers, Traffic Tickets, Small Claims Court, Kindergarten, Dri
 
 *Due Tuesday, Nov 27*
 
+*1 hour planning, 5 hours building*
+
 ### Objective
 
 Imagine a product that your technology will enable in the next 5 to 10 years. Create materials to convey your idea in both an in-class presentation and your case study.
@@ -127,6 +131,8 @@ Imagine a product that your technology will enable in the next 5 to 10 years. Cr
 <!-- # Part 3:  Disaster Exhibit
 
 *Due Tuesday, December 4*
+
+*6 hours*
 
 ### Objective
 
