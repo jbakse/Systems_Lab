@@ -10,7 +10,7 @@ Systems Lab has been primarily about using design as a method of inquiry and res
 
 # Part 1:  Systems Map + Report
 
-*Due Tuesday, Nov 19*
+*Due Monday, Nov 18*
 
 *5 hours researching + mapping, 2 hour presentation prep*
 
