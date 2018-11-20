@@ -65,6 +65,11 @@ College Student, Doctor, Dancer, Baker, Politician, Athlete, Police Officer, Sci
 ## Invention
 Look seven years forward to the year 2025. New developments in technology have shaped the world, but nothing radical has changed. The next seven years havn't brought much more change the last seven.
 
+### Optimism vs Pessimism
+### Hope vs Fear
+### Odd vs Expected
+### Specific vs General
+
 Consider your emerging technologies. What changes has this technology led to? What tools have been invented? What has moved from research labs to living rooms? How have people adopted the technology? What is possible now that was imposible before?
 
 Consider the nature and goals of your character? How has this technology impacted his life?
