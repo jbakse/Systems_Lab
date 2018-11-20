@@ -100,7 +100,7 @@ Imagine a product that your technology will enable in the next 5 to 10 years. Cr
 ### Case Study Constraints
 
 - Create a ~200 word written user scenario explaining your products general use.
-- Create a storyboard explaining your products general use.
+- Create a storyboard explaining your product's general use.
 - Create a rendering showcasing your product.
 
 ### Presentation Contraint
