@@ -125,22 +125,19 @@ Imagine a product that your technology will enable in the next 5 to 10 years. Cr
 - Practice explaining ideas.
 
 
-# Part 3: Secret
+# Part 3:  Disaster Exhibit
 
-
-<!-- # Part 3:  Disaster Exhibit
-
-*Due Tuesday, December 4*
+*Due Thursday, December 6*
 
 *6 hours*
 
 ### Objective
 
-Imagine the worst possible outcome of your product gaining massive popularity. What disaster could your product lead to? Create a timeline from the introduction of your product to that disaster. Taking the role of a museum designer in 2038, create an exhibit to explain the events of your timeline.
+Imagine the worst possible outcome of your product gaining massive popularity. What disaster could your product lead to? Create a timeline centering on the introduction of your product to that disaster. Taking the role of a museum designer in 2038, create an exhibit to explain your product, the underlying technology, the distaster, and the events of your timeline.
 
 ### Deliverables
 
-- A 12x12 inch or larger diorama of your exhibit
+- A 12x12x12 inch or larger diorama of your exhibit
 - A printed, 12x24 inch or larger timeline
 - In class presentation.
 
@@ -149,4 +146,4 @@ Imagine the worst possible outcome of your product gaining massive popularity. W
 - Develop critical approach to evaluating project proposals.
 - Practice evaluating potential externalities of technology projects.
 - Practice communicating about technology.
-- Fun -->
+- Fun
